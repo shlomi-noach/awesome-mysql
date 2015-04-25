@@ -12,6 +12,7 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
     - [Connectors](#connectors)
     - [Deployment](#deployment)
     - [Development](#development)
+    - [GUI](#GUI)
     - [Proxy](#proxy)
     - [Replication](#replication)
     - [Schema](#schema)
@@ -66,6 +67,13 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 - [Liquibase](http://www.liquibase.org/) - Source control for your database
 - [Propagator](https://github.com/outbrain/propagator) - Centralized schema & data deployment on a multi-everything topology
 
+## GUI
+
+*GUI frontends & applications*
+
+- [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
+- [phpMyAdmin](http://www.phpmyadmin.net/home_page/) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
+- [SequelPro](https://github.com/sequelpro/sequelpro) - a fast, easy-to-use Mac database management application for working with MySQL databases.
 
 ## Proxy
 
