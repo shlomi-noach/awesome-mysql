@@ -3,7 +3,7 @@ This list accepts and encourages pull requests.
 # Contribution Guidelines
 
 - **To add to the list:** Submit a pull request
-- **To edit an item:** Submit a pull request, comment why change is in place
+- **To edit an item:** Submit a pull request, comment why the change is in place
 - **To remove from the list:** Open an issue
 
 You may add, or request to remove:
