@@ -32,6 +32,7 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 
 * [Anemometer](https://github.com/box/Anemometer) - Box SQL slow query monitor.
 * [innodb-ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
+* [innotop](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
 * [pstop](https://github.com/sjmudd/pstop) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
 
 
