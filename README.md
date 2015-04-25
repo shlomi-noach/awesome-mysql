@@ -12,7 +12,6 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
     - [Connectors](#connectors)
     - [Development](#development)
     - [Proxy](#proxy)
-    - [Queries](#queries)
     - [Replication](#replication)
     - [Schema](#schema)
     - [Server](#server)
@@ -35,12 +34,14 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 * [innodb-ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
 * [pstop](https://github.com/sjmudd/pstop) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
 
+
 ## Backup
 
 *Backup tools*
 
 * [MyDumper](https://launchpad.net/mydumper) - Logical, parallel backup/dumper tool for MySQL
 * [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
+
 
 ## Connectors
 
@@ -49,6 +50,7 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 * [Connector/Python](https://dev.mysql.com/downloads/connector/python/) - a standardized database driver for Python platforms and development.
 * [go-sql-driver](https://github.com/go-sql-driver/mysql) - a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.
 * [MySQL-Python](http://sourceforge.net/projects/mysql-python/) - MySQL database connector for Python programming.
+
 
 ## Development
 
@@ -68,17 +70,12 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 * [ProxySQL](https://github.com/renecannao/proxysql) - High performance proxy for MySQL.
 
 
-## Queries
-
-*Useful queries. No pie charts. Only gists accepted.*
-
-**Experimental: may be removed/relocated if grows too long**
-
 ## Replication
 
 *Replication related software*
 
 * [Orchestrator](https://github.com/outbrain/orchestrator) - MySQL replication topology management and visualization tool.
+
 
 ## Schema
 

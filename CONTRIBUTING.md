@@ -13,11 +13,10 @@ Conditions for adding a new item:
 * If software, the code must not be abandoned/discontinued.
 * If software, only include one link and a one-liner description. Avoid superlatives or FUD and otherwise just stick to a reasonable description.
 * If software, do not include links to documentation. This is not an "awesome library" repository. We might go for that in the future.
-* If Query, only gist links are accepted.
 * If e-book, must be free (as in free beer) and without commitment from the user (e.g. no requirement to enter personal details,
   no requirement to login with social network ID, etc.)
 * Likewise, all other resources (websites etc.), must all be open to all and must not require payment nor registration/credentials.
-* This is not the place for slides, videos or specific blog posts (will possibly open a dedicated list for this).
+* This is not the place for slides, videos, specific blog posts, specific SQL queries. Will possibly open a dedicated list for these.
 * Avoid politics and religious wars.
 * Make an individual pull request for each suggestion.
 * Use the following format: `[item](link) - description.`
