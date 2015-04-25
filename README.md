@@ -29,8 +29,9 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 
 ## Analysis
 
-*Performance analysis tools*
+*Performance, data & structure analysis tools*
 
+* [innodb-ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
 * [pstop](https://github.com/sjmudd/pstop) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
 
 ## Backup
