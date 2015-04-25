@@ -20,7 +20,6 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
     - [Toolkits](#toolkits)
 
 - [Resources](#resources)
-    - [Benchmarks](#benchmarks)
     - [Conferences](#conferences)
     - [E-Books](#e-books)
 
