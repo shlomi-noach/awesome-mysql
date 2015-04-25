@@ -26,7 +26,7 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 
 ## Analysis
 
-*Performance, data & structure analysis tools*
+*Performance, structure & data analysis tools*
 
 - [Anemometer](https://github.com/box/Anemometer) - Box SQL slow query monitor.
 - [innodb-ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
@@ -36,7 +36,7 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 
 ## Backup
 
-*Backup tools*
+*Backup/restore/recovery tools*
 
 - [MyDumper](https://launchpad.net/mydumper) - Logical, parallel backup/dumper tool for MySQL
 - [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
