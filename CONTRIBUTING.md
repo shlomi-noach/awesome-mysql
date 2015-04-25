@@ -19,5 +19,6 @@ Conditions for adding a new item:
 * This is not the place for slides, videos or specific blog posts (will possibly open a dedicated list for this).
 * Make an individual pull request for each suggestion.
 * Use the following format: `[item](link) - description.`
+* Do not capitalize each description word (i.e. avoid "The Tool to End All Tools")
 
 Thank you for contributing!
