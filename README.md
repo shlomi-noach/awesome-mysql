@@ -70,7 +70,9 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 
 ## Queries
 
-*Useful queries. No pie charts*
+*Useful queries. No pie charts. Only gists accepted.*
+
+**Experimental: may be removed/relocated if grows too long**
 
 ## Replication
 
