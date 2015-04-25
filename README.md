@@ -31,6 +31,8 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 
 *Performance analysis tools*
 
+* [pstop](https://github.com/sjmudd/pstop) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
+
 ## Development
 
 *Tools to support MySQL-related development*
