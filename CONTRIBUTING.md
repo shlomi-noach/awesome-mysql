@@ -6,7 +6,7 @@ This list accepts and encourages pull requests.
 - **To edit an item:** Submit a pull request, add comment explaining the reasoning behind the change.
 - **To remove from the list:** Open an issue
 
-You may add, or request to remove:
+You may add, edit, or request to remove:
 - Categories
 - Items
 
