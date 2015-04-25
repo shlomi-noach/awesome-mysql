@@ -10,6 +10,7 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
     - [Analysis](#analysis)
     - [Backup](#backup)
     - [Connectors](#connectors)
+    - [Deployment](#deployment)
     - [Development](#development)
     - [Proxy](#proxy)
     - [Replication](#replication)
@@ -51,6 +52,13 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 * [Connector/Python](https://dev.mysql.com/downloads/connector/python/) - a standardized database driver for Python platforms and development.
 * [go-sql-driver](https://github.com/go-sql-driver/mysql) - a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.
 * [MySQL-Python](http://sourceforge.net/projects/mysql-python/) - MySQL database connector for Python programming.
+
+
+## Deployment
+
+*MySQL deployment tools*
+
+- [MySQL Sandbox](http://mysqlsandbox.net/) - a tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
 
 
 ## Development
