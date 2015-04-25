@@ -118,7 +118,7 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 
 # Resources
 
-*At this stage, *resources* will not include websites, blogs, slides, videos, etc. in fear of list size*
+*At this stage, "resources" will not include websites, blogs, slides, videos, etc. in fear of list size*
 
 ##Conferences
 
