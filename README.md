@@ -1,6 +1,6 @@
 # awesome-mysql
 
-A curated list of awesome MySQL software, libraries and tools.
+A curated list of awesome MySQL software, libraries and resources.
 
 This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.md)
 
@@ -23,8 +23,6 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
     - [Benchmarks](#benchmarks)
     - [Conferences](#conferences)
     - [E-Books](#e-books)
-    - [Websites](#websites)
-        - [Blogs](#blogs)
 
 
 ## Analysis
@@ -119,6 +117,8 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 - [Percona Toolkit](http://www.percona.com/software/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
 
 # Resources
+
+*At this stage, resources will not include websites, blogs, slides, videos, etc. in fear of list size*
 
 ##Conferences
 
