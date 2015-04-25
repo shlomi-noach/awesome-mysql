@@ -83,7 +83,8 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 
 *Replication related software*
 
-- [Orchestrator](https://github.com/outbrain/orchestrator) - MySQL replication topology management and visualization tool.
+- [orchestrator](https://github.com/outbrain/orchestrator) - MySQL replication topology management and visualization tool.
+- [Tungsten Replicator](http://code.google.com/p/tungsten-replicator/) - A high performance, open source, data replication engine for MySQL.
 
 
 ## Schema
