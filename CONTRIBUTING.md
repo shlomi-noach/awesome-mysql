@@ -13,12 +13,13 @@ You may add, or request to remove:
 
 This is an attempt to make a curated list of high-quality, maintained, useful MySQL/related software.
 
-- If software, must be free and open source. Must have an acknowledged open source license. I'm not a lawyer, so I'll go with the
-  FSF listings. Propriety, trial, shareware, halfway open sourced etc., will not be accepted, and will be removed.
-- If software, must be reasonably recognized and adopted. Please do not add your newly created untested scripts.
-- If software, the code must have been active in some production environment and must be in a reasonably GA quality.
-- If software, the code must not be abandoned/discontinued.
-- If software, do not include links to documentation. This is not an "awesome library" repository. We might go for that in the future.
+- Submitting software:
+  - Must be free and open source. Must have an acknowledged open source license. I'm not a lawyer, so I'll go with the
+    FSF listings. Propriety, trial, shareware, halfway open sourced etc., will not be accepted, and will be removed.
+  - Must be reasonably recognized and adopted. Please do not add your newly created untested scripts.
+  - The code must have been active in some production environment and must be in a reasonably GA quality.
+  - Code must not be abandoned/discontinued.
+  - Do not include links to documentation. This is not an "awesome library" repository. We might go for that in the future.
 - If e-book, must be free (as in free beer) and without commitment from the user (e.g. no requirement to enter personal details,
   no requirement to login with social network ID, etc.)
 - Likewise, all other resources (websites etc.), must all be open to all and must not require payment nor registration/credentials.
