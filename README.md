@@ -59,6 +59,14 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 
 * [Orchestrator](https://github.com/outbrain/orchestrator) - MySQL replication topology management and visualization tool.
 
+## Schema
+
+*Add-on schemas*
+
+* [common_schema](http://code.google.com/p/common-schema/) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
+* [sys](https://github.com/MarkLeith/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
+
+
 ## Server
 
 *MySQL server flavors*
