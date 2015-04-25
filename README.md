@@ -119,3 +119,11 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 - [Percona Toolkit](http://www.percona.com/software/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
 
 # Resources
+
+##Conferences
+
+*Public, recurring conferences on and around MySQL*
+
+- [FOSDEM](https://fosdem.org/) - a free event for software developers to meet, share ideas and collaborate. Annually, in Brussels. Offers "MySQL & friends" room.
+- [MySQL Central](https://www.oracle.com/openworld/mysql/index.html) - Oracle's annual MySQL conference, as part of Oracle Open World.
+- [Percona Live](http://www.percona.com/live/conferences) - MySQL & Openstack focused conference.
