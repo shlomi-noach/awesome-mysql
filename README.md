@@ -19,8 +19,10 @@ Conditions for adding a new item:
 * If software, do not include links to documentation. This is not an "awesome library" repository. We might go for that in the future.
 * If e-book, must be free (as in free beer) and without commitment from the user (e.g. no requirement to enter personal details,
   no requirement to login with social network ID, etc.)
-* Likewise, slides, videos, websites etc., must all be open to all and must not require payment nor credentials
+* Likewise, all other resources (websites etc.), must all be open to all and must not require payment nor registration/credentials.
 * This is not the place for slides, videos or specific blog posts
+* Make an individual pull request for each suggestion.
+* Use the following format: `[item](link) - description.`
 
 ### Contents
 
