@@ -150,3 +150,5 @@ This list accepts and encourages pull requests. See [CONTIBUTING](CONTRIBUTING.m
 ## Newsletters
 
 *Newsletters require an email address, by definition. Only list newsletters that require nothing but an email address*
+
+- [Weekly MySQL News](http://mysqlnewsletter.com/) - Unofficial weekly news digest of all things MySQL
