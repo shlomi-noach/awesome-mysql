@@ -1,4 +1,4 @@
-This list accepts and encourages Pull Requests. You may add:
+This list accepts and encourages Pull Requests. You may add/modify:
 
 - Categories
 - Items
@@ -11,7 +11,7 @@ Conditions for adding a new item:
 * If software, must be reasonably recognized and adopted. Please do not add your newly created untested scripts.
 * If software, the code must have been active in some production environment and must be in a reasonably GA quality.
 * If software, the code must not be abandoned/discontinued.
-* If software, only include one link and a one-liner description. Avoid superlatives or FUD and otherwise just stick to a reasonabel description.
+* If software, only include one link and a one-liner description. Avoid superlatives or FUD and otherwise just stick to a reasonable description.
 * If software, do not include links to documentation. This is not an "awesome library" repository. We might go for that in the future.
 * If e-book, must be free (as in free beer) and without commitment from the user (e.g. no requirement to enter personal details,
   no requirement to login with social network ID, etc.)

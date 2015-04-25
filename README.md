@@ -33,6 +33,20 @@ This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.m
 
 * [pstop](https://github.com/sjmudd/pstop) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
 
+## Backup
+
+*Backup tools*
+
+* 
+
+## Connectors
+
+*MySQL connectors for various programming languages*
+
+* [Connector/Python](https://dev.mysql.com/downloads/connector/python/) - a standardized database driver for Python platforms and development.
+* [go-sql-driver](https://github.com/go-sql-driver/mysql) - a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.
+* [MySQL-Python](http://sourceforge.net/projects/mysql-python/) - MySQL database connector for Python programming.
+
 ## Development
 
 *Tools to support MySQL-related development*
