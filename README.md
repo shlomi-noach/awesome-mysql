@@ -128,7 +128,7 @@ This list accepts and encourages pull requests. See [CONTIBUTING](CONTRIBUTING.m
 
 # Resources
 
-*At this stage "resources" will not include websites, blogs, slides, videos, etc. in fear of list size*
+*At this stage "resources" will not include websites, blogs, slides, presentation videos, etc. in fear of list size*
 
 ##Conferences
 
@@ -141,7 +141,7 @@ This list accepts and encourages pull requests. See [CONTIBUTING](CONTRIBUTING.m
 
 ## Media
 
-*Public, ongoing video, audio. This excludes conference presentations in fear of list size*
+*Public, ongoing video & audio casts. This excludes conference presentations in fear of list size*
 
 - [DBHangOps](http://dbhangops.github.io/) - a bi-weekly google hangout meeting of various members of the MySQL community that simply want to talk shop about MySQL in their day-to-day .
 - [OurSQL Podcast](http://www.oursql.com/) - The MySQL database community podcast.
