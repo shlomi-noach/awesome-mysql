@@ -16,7 +16,7 @@ Conditions for adding a new item:
 * If e-book, must be free (as in free beer) and without commitment from the user (e.g. no requirement to enter personal details,
   no requirement to login with social network ID, etc.)
 * Likewise, all other resources (websites etc.), must all be open to all and must not require payment nor registration/credentials.
-* This is not the place for slides, videos or specific blog posts
+* This is not the place for slides, videos or specific blog posts (will possibly open a dedicated list for this)
 * Make an individual pull request for each suggestion.
 * Use the following format: `[item](link) - description.`
 
