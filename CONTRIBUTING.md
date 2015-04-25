@@ -17,6 +17,7 @@ Conditions for adding a new item:
   no requirement to login with social network ID, etc.)
 * Likewise, all other resources (websites etc.), must all be open to all and must not require payment nor registration/credentials.
 * This is not the place for slides, videos or specific blog posts (will possibly open a dedicated list for this).
+* Avoid politics and religious wars.
 * Make an individual pull request for each suggestion.
 * Use the following format: `[item](link) - description.`
 * Do not capitalize each description word (i.e. avoid "The Tool to End All Tools")
