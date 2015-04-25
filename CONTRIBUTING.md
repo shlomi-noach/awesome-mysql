@@ -23,6 +23,8 @@ This is an attempt to make a curated list of high-quality, maintained, useful My
 - If e-book, must be free (as in free beer) and without commitment from the user (e.g. no requirement to enter personal details,
   no requirement to login with social network ID, etc.)
 - Likewise, all other resources (websites etc.), must all be open to all and must not require payment nor registration/credentials.
+  - The only exception being Newsletters, where an email address is required by definition. Newsletters are accepted under the
+    condition that an email address is their *only requirement*.
 - This is not the place for slides, videos, specific blog posts, specific SQL queries. Will possibly open a dedicated list for these.
 - Avoid politics and religious wars.
 
