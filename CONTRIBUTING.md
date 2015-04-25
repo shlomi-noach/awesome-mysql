@@ -1,4 +1,4 @@
-This list accepts and encourages Pull Requests.
+This list accepts and encourages pull requests.
 
 # Contribution Guidelines
 

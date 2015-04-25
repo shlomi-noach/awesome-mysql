@@ -2,7 +2,7 @@
 
 A curated list of awesome MySQL software, libraries and resources.
 
-This list accepts and encourages Pull Requests. See [CONTIBUTING](CONTRIBUTING.md)
+This list accepts and encourages pull requests. See [CONTIBUTING](CONTRIBUTING.md)
 
 ### Contents
 
