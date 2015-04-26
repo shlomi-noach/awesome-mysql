@@ -37,7 +37,7 @@ This is an attempt to make a curated list of high-quality, maintained, useful My
 - Each item should be limited to one link
 - The link should be the name of the package or project
 - Avoid superlatives or FUD and otherwise just stick to a reasonable description.
-- Do not capitalize (i.e. avoid "The Tool to End All Tools")
+- Do not capitalize description (i.e. avoid "The Tool to End All Tools")
 - English only
 
 
