@@ -35,7 +35,7 @@ This is an attempt to make a curated list of high-quality, maintained, useful My
 - Categories & items must be added by alphabetical order (`utf8_general_ci`).
 - Use the following format: `[item](link) - description.`
 - Each item should be limited to one link
-- The link should be the name of the package or project
+- The link should be the name of the package/project/library/resource etc.
 - Avoid superlatives or FUD and otherwise just stick to a reasonable description.
 - Do not capitalize description (i.e. avoid "The Tool to End All Tools")
 - English only
