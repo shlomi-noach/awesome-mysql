@@ -94,7 +94,6 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 
 *GUI frontends & applications*
 
-- [0xDBE](https://www.jetbrains.com/dbe/) - Commercial cross-product Database IDE from Jetbrains, uses JDBC.
 - [HeidiSQL](http://www.heidisql.com/) - MySQL GUI frontend for Windows.
 - [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
 - [phpMyAdmin](http://www.phpmyadmin.net/home_page/) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
