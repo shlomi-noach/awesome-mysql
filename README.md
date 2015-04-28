@@ -44,6 +44,8 @@ This list accepts and encourages pull requests. See [CONTIBUTING](CONTRIBUTING.m
 - [MyDumper](https://launchpad.net/mydumper) - Logical, parallel backup/dumper tool for MySQL
 - [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
 
+## ChatOps
+- [Hubot MySQL ChatOps](https://github.com/samlambert/hubot-mysql-chatops)
 
 ## Connectors
 
