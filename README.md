@@ -11,6 +11,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 - [Awesome MySQL](#awesome-mysql)
     - [Analysis](#analysis)
     - [Backup](#backup)
+    - [Benchmarking](benchmarking)
     - [ChatOps](#chatops)
     - [Connectors](#connectors)
     - [Deployment](#deployment)
@@ -47,6 +48,12 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 
 - [MyDumper](https://launchpad.net/mydumper) - Logical, parallel backup/dumper tool for MySQL
 - [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
+
+## Benchmarking
+
+*Tools to stress your servers*
+
+- [Sysbench](https://launchpad.net/sysbench)
 
 ## ChatOps
 
