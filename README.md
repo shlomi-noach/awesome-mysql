@@ -54,6 +54,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 *Tools to stress your servers*
 
 - [Sysbench](https://launchpad.net/sysbench)
+- [iibench-mysql](https://github.com/tmcallaghan/iibench-mysql)
 
 ## ChatOps
 
@@ -67,7 +68,10 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 
 - [Connector/Python](https://dev.mysql.com/downloads/connector/python/) - a standardized database driver for Python platforms and development.
 - [go-sql-driver](https://github.com/go-sql-driver/mysql) - a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.
+- [libAttachSQL](http://libattachsql.org) - libAttachSQL is a lightweight, non-blocking C API for MySQL servers.
+- [MariaDB Java CLient](https://mariadb.com/kb/en/mariadb/mariadb-java-client/) - lightweight, open source, and fast JDBC driver for MySQL/MariaDB.
 - [MySQL-Python](http://sourceforge.net/projects/mysql-python/) - MySQL database connector for Python programming.
+
 
 
 ## Deployment
@@ -90,6 +94,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 
 *GUI frontends & applications*
 
+- [0xDBE](https://www.jetbrains.com/dbe/) - Commercial cross-product Database IDE from Jetbrains, uses JDBC.
 - [HeidiSQL](http://www.heidisql.com/) - MySQL GUI frontend for Windows.
 - [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
 - [phpMyAdmin](http://www.phpmyadmin.net/home_page/) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
