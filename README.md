@@ -53,8 +53,8 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 
 *Tools to stress your servers*
 
+- [iibench-mysql](https://github.com/tmcallaghan/iibench-mysql) - Java based version of the Index Insertion Benchmark for MySQL/Percona/MariaDB.
 - [Sysbench](https://launchpad.net/sysbench)
-- [iibench-mysql](https://github.com/tmcallaghan/iibench-mysql)
 
 ## ChatOps
 
