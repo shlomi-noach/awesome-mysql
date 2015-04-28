@@ -98,7 +98,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 - [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
 - [phpMyAdmin](http://www.phpmyadmin.net/home_page/) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
 - [SequelPro](https://github.com/sequelpro/sequelpro) - a Mac database management application for working with MySQL databases.
-- [SQLYog Community](https://code.google.com/p/sqlyog/wiki/Downloads) the open-source version of a MySQL client GUI for Windows.
+- [SQLYog Community](https://github.com/webyog/sqlyog-community) the open-source version of a MySQL client GUI for Windows.
 
 
 ## HA
