@@ -138,6 +138,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 *Sharding solutions/frameworks*
 
 - [vitess](https://github.com/youtube/vitess) - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
+- [jetpants](https://github.com/tumblr/jetpants) - An automation suite for managing large range sharding clusters, by Tumblr.
 
 
 ## Toolkits
