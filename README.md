@@ -11,7 +11,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 - [Awesome MySQL](#awesome-mysql)
     - [Analysis](#analysis)
     - [Backup](#backup)
-    - [Benchmarking](benchmarking)
+    - [Benchmarking](#benchmarking)
     - [ChatOps](#chatops)
     - [Connectors](#connectors)
     - [Deployment](#deployment)
