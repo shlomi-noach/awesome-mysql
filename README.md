@@ -9,6 +9,7 @@ This list accepts and encourages pull requests. See [CONTIBUTING](CONTRIBUTING.m
 - [Awesome MySQL](#awesome-mysql)
     - [Analysis](#analysis)
     - [Backup](#backup)
+    - [Benchmarking](benchmarking)
     - [Connectors](#connectors)
     - [Deployment](#deployment)
     - [Development](#development)
@@ -35,7 +36,6 @@ This list accepts and encourages pull requests. See [CONTIBUTING](CONTRIBUTING.m
 - [innodb-ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
 - [innotop](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
 - [pstop](https://github.com/sjmudd/pstop) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
-- [YesMark](https://github.com/jeremycole/yesmark) - The world's most advanced Open Source benchmarking platform.
 
 
 ## Backup
@@ -45,6 +45,12 @@ This list accepts and encourages pull requests. See [CONTIBUTING](CONTRIBUTING.m
 - [MyDumper](https://launchpad.net/mydumper) - Logical, parallel backup/dumper tool for MySQL
 - [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
 
+## Benchmarking
+
+*Tools to stress your servers*
+
+- [Sysbench](https://launchpad.net/sysbench)
+- [YesMark](https://github.com/jeremycole/yesmark) - The world's most advanced Open Source benchmarking platform.
 
 ## Connectors
 
