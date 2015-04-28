@@ -11,6 +11,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 - [Awesome MySQL](#awesome-mysql)
     - [Analysis](#analysis)
     - [Backup](#backup)
+    - [ChatOps](#chatops)
     - [Connectors](#connectors)
     - [Deployment](#deployment)
     - [Development](#development)
@@ -47,6 +48,9 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 - [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
 
 ## ChatOps
+
+*Scripts integrated into chat rooms*
+
 - [Hubot MySQL ChatOps](https://github.com/samlambert/hubot-mysql-chatops)
 
 ## Connectors
