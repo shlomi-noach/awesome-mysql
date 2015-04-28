@@ -15,7 +15,8 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
     - [Connectors](#connectors)
     - [Deployment](#deployment)
     - [Development](#development)
-    - [GUI](#GUI)
+    - [GUI](#gui)
+    - [HA](#ha)
     - [Proxy](#proxy)
     - [Replication](#replication)
     - [Schema](#schema)
@@ -77,6 +78,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 - [Liquibase](http://www.liquibase.org/) - Source control for your database
 - [Propagator](https://github.com/outbrain/propagator) - Centralized schema & data deployment on a multi-everything topology
 
+
 ## GUI
 
 *GUI frontends & applications*
@@ -85,6 +87,16 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 - [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
 - [phpMyAdmin](http://www.phpmyadmin.net/home_page/) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
 - [SequelPro](https://github.com/sequelpro/sequelpro) - a fast, easy-to-use Mac database management application for working with MySQL databases.
+
+
+## HA
+
+*High availability solutions*
+
+- [Galera Cluster](http://galeracluster.com/products/) - a true Multimaster Cluster based on synchronous replication.
+- [MHA](http://code.google.com/p/mysql-master-ha/) - Master High Availability Manager and tools for MySQL
+- [MySQL Fabric](https://www.mysql.com/products/enterprise/fabric.html) - an extensible framework for managing farms of MySQL Servers.
+
 
 ## Proxy
 
