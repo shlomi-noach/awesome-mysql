@@ -114,6 +114,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 *Proxies to MySQL*
 
 - [MaxScale](https://github.com/mariadb-corporation/MaxScale) - open-source, database-centric proxy.
+- [Mixer](https://github.com/siddontang/mixer) - a MySQL proxy powered by Go which aims to supply a simple solution for MySQL sharding.
 - [MySQL Proxy](https://launchpad.net/mysql-proxy) - A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication.
 - [ProxySQL](https://github.com/renecannao/proxysql) - High performance proxy for MySQL.
 
@@ -156,6 +157,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 
 *Toolkits, general purpose scripts*
 
+- [go-mysql](https://github.com/siddontang/go-mysql) - A pure go library to handle MySQL network protocol and replication.
 - [Percona Toolkit](http://www.percona.com/software/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
 - [UnDROP](https://twindb.com/undrop-tool-for-innodb/) - a tool to recover data from dropped or corrupted InnoDB tables.
 
