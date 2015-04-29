@@ -69,7 +69,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 - [Connector/Python](https://dev.mysql.com/downloads/connector/python/) - a standardized database driver for Python platforms and development.
 - [go-sql-driver](https://github.com/go-sql-driver/mysql) - a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.
 - [libAttachSQL](http://libattachsql.org) - libAttachSQL is a lightweight, non-blocking C API for MySQL servers.
-- [MariaDB Java CLient](https://mariadb.com/kb/en/mariadb/mariadb-java-client/) - LGPL-licensed MariaDB Client Library for Java Applications.
+- [MariaDB Java Client](https://mariadb.com/kb/en/mariadb/mariadb-java-client/) - LGPL-licensed MariaDB Client Library for Java Applications.
 - [MySQL-Python](http://sourceforge.net/projects/mysql-python/) - MySQL database connector for Python programming.
 
 
