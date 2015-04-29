@@ -97,7 +97,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 - [HeidiSQL](http://www.heidisql.com/) - MySQL GUI frontend for Windows.
 - [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
 - [phpMyAdmin](http://www.phpmyadmin.net/home_page/) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
-- [SequelPro](https://github.com/sequelpro/sequelpro) - a fast, easy-to-use Mac database management application for working with MySQL databases.
+- [SequelPro](https://github.com/sequelpro/sequelpro) - a Mac database management application for working with MySQL databases.
 
 
 ## HA
