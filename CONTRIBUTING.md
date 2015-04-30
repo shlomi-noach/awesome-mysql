@@ -2,8 +2,8 @@ This list accepts and encourages pull requests.
 
 # Contribution Guidelines
 
-- **To add to the list:** Submit a pull request, optionally add comment if you wish to elaborate/explain.
-- **To edit an item:** Submit a pull request, add comment explaining the reasoning behind the change.
+- **To add to the list:** Submit a pull request to index.md, optionally add comment if you wish to elaborate/explain.
+- **To edit an item:** Submit a pull request to index.md, add comment explaining the reasoning behind the change.
 - **To remove from the list:** Open an issue
 
 You may add, edit, or request to remove:
