@@ -48,7 +48,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 
 - [MyDumper](https://launchpad.net/mydumper) - Logical, parallel backup/dumper tool for MySQL
 - [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
-- [MySQLDumper ](http://www.mysqldumper.net/) - open-source web based backup tool - great for shared webhosting
+- [MySQLDumper](http://www.mysqldumper.net/) - open-source web based backup tool - great for shared webhosting
 
 ## Benchmarking
 
