@@ -79,6 +79,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 *MySQL deployment tools*
 
 - [MySQL Sandbox](http://mysqlsandbox.net/) - a tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
+- [MySQL Docker](https://registry.hub.docker.com/_/mysql/) - Official Docker images.
 
 
 ## Development
