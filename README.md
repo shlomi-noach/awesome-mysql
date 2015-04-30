@@ -40,7 +40,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 - [innodb-ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
 - [innotop](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
 - [pstop](https://github.com/sjmudd/pstop) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
-- [mysql-statsd](https://github.com/spilgames/mysql-statsd/) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite. 
+- [mysql-statsd](https://github.com/spilgames/mysql-statsd/) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
 
 ## Backup
 
@@ -159,8 +159,8 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 
 *Toolkits, general purpose scripts*
 
-- [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
 - [go-mysql](https://github.com/siddontang/go-mysql) - A pure go library to handle MySQL network protocol and replication.
+- [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
 - [Percona Toolkit](http://www.percona.com/software/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
 - [UnDROP](https://twindb.com/undrop-tool-for-innodb/) - a tool to recover data from dropped or corrupted InnoDB tables.
 
