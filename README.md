@@ -80,6 +80,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 *MySQL deployment tools*
 
 - [MySQL Sandbox](http://mysqlsandbox.net/) - a tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
+- [MySQL Docker](https://registry.hub.docker.com/_/mysql/) - Official Docker images.
 
 
 ## Development
@@ -158,6 +159,7 @@ The initial commit for this list is deliberatly incomplete, in the intention tha
 
 *Toolkits, general purpose scripts*
 
+- [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
 - [go-mysql](https://github.com/siddontang/go-mysql) - A pure go library to handle MySQL network protocol and replication.
 - [Percona Toolkit](http://www.percona.com/software/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
 - [UnDROP](https://twindb.com/undrop-tool-for-innodb/) - a tool to recover data from dropped or corrupted InnoDB tables.
