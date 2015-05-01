@@ -1,4 +1,4 @@
-This list accepts and encourages pull requests.
+This list [accepts and encourages pull requests](https://github.com/shlomi-noach/awesome-mysql).
 
 # Contribution Guidelines
 
