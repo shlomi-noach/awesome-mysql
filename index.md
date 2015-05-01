@@ -3,7 +3,7 @@ layout: default
 ---
 A curated list of awesome MySQL software, libraries and resources.
 
-This list accepts and encourages pull requests. See [CONTRIBUTING](CONTRIBUTING.md)
+This list accepts and encourages pull requests. See [CONTRIBUTING](https://github.com/shlomi-noach/awesome-mysql/blob/master/CONTRIBUTING.md)
 
 ### Contents
 
