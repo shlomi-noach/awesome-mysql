@@ -12,6 +12,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
     - [Backup](#backup)
     - [Benchmarking](#benchmarking)
     - [ChatOps](#chatops)
+    - [Configuration](#configuration)
     - [Connectors](#connectors)
     - [Deployment](#deployment)
     - [Development](#development)
@@ -61,6 +62,12 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *Scripts integrated into chat rooms*
 
 - [Hubot MySQL ChatOps](https://github.com/samlambert/hubot-mysql-chatops)
+
+## Configuration
+
+*MySQL sample configuration and advisors*
+
+- [mysql-compatibility-config](https://github.com/morgo/mysql-compatibility-config) - make MySQL configuration behave more like newer (or older) releases of MySQL.
 
 ## Connectors
 
@@ -145,10 +152,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) - Official Oracle's MySQL server & MySQL Cluster distribution.
 - [Percona Server](https://launchpad.net/percona-server) - An enhanced, drop-in MySQL replacement.
 - [WebScaleSQL](https://github.com/webscalesql/webscalesql-5.6) - WebScaleSQL, Version 5.6, based upon the MySQL-5.6 community releases.
-
-*Configuration*
-
-- [mysql-compatibility-config](https://github.com/morgo/mysql-compatibility-config) - make MySQL configuration behave more like newer (or older) releases of MySQL.
 
 ## Sharding
 
