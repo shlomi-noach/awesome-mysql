@@ -78,7 +78,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [libAttachSQL](http://libattachsql.org) - libAttachSQL is a lightweight, non-blocking C API for MySQL servers.
 - [MariaDB Java Client](https://mariadb.com/kb/en/mariadb/mariadb-java-client/) - LGPL-licensed MariaDB Client Library for Java Applications.
 - [MySQL-Python](http://sourceforge.net/projects/mysql-python/) - MySQL database connector for Python programming.
-
+- [PHP mysqlnd](https://dev.mysql.com/downloads/connector/php-mysqlnd/) - MySQL native driver for MySQL, deprecating older libmysql based driver.
 
 
 ## Deployment
@@ -116,6 +116,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Galera Cluster](http://galeracluster.com/products/) - a true Multimaster Cluster based on synchronous replication.
 - [MHA](http://code.google.com/p/mysql-master-ha/) - Master High Availability Manager and tools for MySQL
 - [MySQL Fabric](https://www.mysql.com/products/enterprise/fabric.html) - an extensible framework for managing farms of MySQL Servers.
+- [Percona Replication Manager](https://github.com/percona/percona-pacemaker-agents/) - Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.
 
 
 ## Proxy
