@@ -184,6 +184,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [FOSDEM](https://fosdem.org/) - a free event for software developers to meet, share ideas and collaborate. Annually, in Brussels. Offers "MySQL & friends" room.
 - [MySQL Central](https://www.oracle.com/openworld/mysql/index.html) - Oracle's annual MySQL conference, as part of Oracle Open World.
 - [Percona Live](http://www.percona.com/live/conferences) - MySQL & Openstack focused conference.
+- [SCALE](https://www.socallinuxexpo.org) - A community organized Linux and Open Source conference held annually in Southern California. The local MySQL community runs a track under the name MySQL Community Day.
 
 
 ## Media
