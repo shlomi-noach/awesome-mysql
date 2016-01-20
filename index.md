@@ -39,8 +39,8 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Anemometer](https://github.com/box/Anemometer) - Box SQL slow query monitor.
 - [innodb-ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
 - [innotop](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
-- [pstop](https://github.com/sjmudd/pstop) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
-- [mysql-statsd](https://github.com/spilgames/mysql-statsd/) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
+- [pstop](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
+- [mysql-statsd](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
 
 ## Backup
 
@@ -77,7 +77,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Connector/Python](https://dev.mysql.com/downloads/connector/python/) - a standardized database driver for Python platforms and development.
 - [go-sql-driver](https://github.com/go-sql-driver/mysql) - a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.
 - [libAttachSQL](http://libattachsql.org) - libAttachSQL is a lightweight, non-blocking C API for MySQL servers.
-- [MariaDB Java Client](https://mariadb.com/kb/en/mariadb/mariadb-java-client/) - LGPL-licensed MariaDB Client Library for Java Applications.
+- [MariaDB Java Client](https://mariadb.com/kb/en/mariadb/mariadb-connector-j/) - LGPL-licensed MariaDB Client Library for Java Applications.
 - [MySQL-Python](http://sourceforge.net/projects/mysql-python/) - MySQL database connector for Python programming.
 - [PHP mysqlnd](https://dev.mysql.com/downloads/connector/php-mysqlnd/) - MySQL native driver for MySQL, deprecating older libmysql based driver.
 
@@ -86,7 +86,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *MySQL deployment tools*
 
-- [MySQL Docker](https://registry.hub.docker.com/_/mysql/) - Official Docker images.
+- [MySQL Docker](https://hub.docker.com/_/mysql/) - Official Docker images.
 - [MySQL Sandbox](http://mysqlsandbox.net/) - a tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
 
 
@@ -103,10 +103,10 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *GUI frontends & applications*
 
-- [Adminer](http://www.adminer.org/) - Database management in a single PHP file.
+- [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
 - [HeidiSQL](http://www.heidisql.com/) - MySQL GUI frontend for Windows.
 - [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
-- [phpMyAdmin](http://www.phpmyadmin.net/home_page/) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
+- [phpMyAdmin](https://www.phpmyadmin.net/) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
 - [SequelPro](https://github.com/sequelpro/sequelpro) - a Mac database management application for working with MySQL databases.
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 
@@ -144,7 +144,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *Add-on schemas*
 
 - [common_schema](http://code.google.com/p/common-schema/) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
-- [sys](https://github.com/MarkLeith/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
+- [sys](https://github.com/mysql/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
 
 
 ## Server
@@ -170,7 +170,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [go-mysql](https://github.com/siddontang/go-mysql) - A pure go library to handle MySQL network protocol and replication.
 - [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
-- [Percona Toolkit](http://www.percona.com/software/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
+- [Percona Toolkit](https://www.percona.com/software/mysql-tools/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
 - [openark kit](http://code.openark.org/forge/openark-kit) - a set of utilities that solve everyday maintenance tasks, which may be complicated or time consuming to do by hand, written in Python.
 - [UnDROP](https://twindb.com/undrop-tool-for-innodb/) - a tool to recover data from dropped or corrupted InnoDB tables.
 
@@ -184,7 +184,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [FOSDEM](https://fosdem.org/) - a free event for software developers to meet, share ideas and collaborate. Annually, in Brussels. Offers "MySQL & friends" room.
 - [MySQL Central](https://www.oracle.com/openworld/mysql/index.html) - Oracle's annual MySQL conference, as part of Oracle Open World.
-- [Percona Live](http://www.percona.com/live/conferences) - MySQL & Openstack focused conference.
+- [Percona Live](https://www.percona.com/live/conferences) - MySQL & Openstack focused conference.
 - [SCALE](https://www.socallinuxexpo.org) - A community organized Linux and Open Source conference held annually in Southern California. The local MySQL community runs a track under the name MySQL Community Day.
 
 ##e-books
