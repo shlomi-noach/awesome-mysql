@@ -41,6 +41,9 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [innotop](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
 - [pstop](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
 - [mysql-statsd](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
+- [MySQLTuner](http://mysqltuner.com/) Free and opensource MySQL analizer written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.
+
+
 
 ## Backup
 
