@@ -143,7 +143,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *Add-on schemas*
 
-- [common_schema](http://code.google.com/p/common-schema/) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
+- [common_schema](https://github.com/shlomi-noach/common_schema) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
 - [sys](https://github.com/mysql/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
 
 
