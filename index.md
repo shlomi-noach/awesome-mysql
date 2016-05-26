@@ -41,7 +41,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [innotop](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
 - [pstop](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
 - [mysql-statsd](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
-- [MySQLTuner-perl](http://mysqltuner.com) - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability. 
+- [MySQLTuner-perl](http://mysqltuner.com) - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
 
 ## Backup
 
@@ -79,6 +79,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [libAttachSQL](http://libattachsql.org) - libAttachSQL is a lightweight, non-blocking C API for MySQL servers.
 - [MariaDB Java Client](https://mariadb.com/kb/en/mariadb/mariadb-connector-j/) - LGPL-licensed MariaDB Client Library for Java Applications.
 - [MySQL-Python](http://sourceforge.net/projects/mysql-python/) - MySQL database connector for Python programming.
+- [node-mysql](https://github.com/felixge/node-mysql) - A pure Nodejs Javascript client implementing the MySQL protocol.
 - [PHP mysqlnd](https://dev.mysql.com/downloads/connector/php-mysqlnd/) - MySQL native driver for MySQL, deprecating older libmysql based driver.
 
 
