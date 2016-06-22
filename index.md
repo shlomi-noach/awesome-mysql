@@ -39,6 +39,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Anemometer](https://github.com/box/Anemometer) - Box SQL slow query monitor.
 - [innodb-ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
 - [innotop](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
+- [Prometheus](https://prometheus.io/)/[mysqld_exporter](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
 - [pstop](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
 - [mysql-statsd](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
 - [MySQLTuner-perl](http://mysqltuner.com) - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
