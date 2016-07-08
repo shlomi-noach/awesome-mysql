@@ -120,6 +120,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *High availability solutions*
 
 - [Galera Cluster](http://galeracluster.com/products/) - a true Multimaster Cluster based on synchronous replication.
+- [MariaDB Replication Manager](https://github.com/mariadb-corporation/replication-manager) - a high availability solution to manage MariaDB 10.x GTID replication.
 - [MHA](http://code.google.com/p/mysql-master-ha/) - Master High Availability Manager and tools for MySQL
 - [MySQL Fabric](https://www.mysql.com/products/enterprise/fabric.html) - an extensible framework for managing farms of MySQL Servers.
 - [Percona Replication Manager](https://github.com/percona/percona-pacemaker-agents/) - Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.
