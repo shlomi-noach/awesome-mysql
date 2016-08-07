@@ -184,7 +184,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *At this stage "resources" will not include websites, blogs, slides, presentation videos, etc. in fear of list size*
 
-##Conferences
+## Conferences
 
 *Public, recurring conferences on and around MySQL*
 
@@ -193,7 +193,8 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Percona Live](https://www.percona.com/live/conferences) - MySQL & Openstack focused conference.
 - [SCALE](https://www.socallinuxexpo.org) - A community organized Linux and Open Source conference held annually in Southern California. The local MySQL community runs a track under the name MySQL Community Day.
 
-##e-books
+## e-books
+
 *e-books as well as relevant materials on and around MySQL*
 
 - [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
