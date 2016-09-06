@@ -81,7 +81,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Connector/J](https://dev.mysql.com/downloads/connector/j/) - a standardized database driver for the Java platforms and development.
 - [DBD::mysql](https://metacpan.org/pod/DBD::mysql) - MySQL driver for the Perl5 Database Interface.
 - [go-sql-driver](https://github.com/go-sql-driver/mysql) - a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.
-- [libAttachSQL](http://libattachsql.org) - libAttachSQL is a lightweight, non-blocking C API for MySQL servers.
+- [libAttachSQL](https://github.com/libattachsql/libattachsql) - libAttachSQL is a lightweight, non-blocking C API for MySQL servers.
 - [MariaDB Java Client](https://mariadb.com/kb/en/mariadb/mariadb-connector-j/) - LGPL-licensed MariaDB Client Library for Java Applications.
 - [MySQL-Python](http://sourceforge.net/projects/mysql-python/) - MySQL database connector for Python programming.
 - [node-mysql](https://github.com/felixge/node-mysql) - A pure Nodejs Javascript client implementing the MySQL protocol.
