@@ -182,7 +182,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Percona Toolkit](https://www.percona.com/software/mysql-tools/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
 - [gh-ost](https://github.com/github/gh-ost/) - GitHub's online schema migration for MySQL.
 - [openark kit](http://code.openark.org/forge/openark-kit) - a set of utilities that solve everyday maintenance tasks, which may be complicated or time consuming to do by hand, written in Python.
-- [UnDROP](https://twindb.com/undrop-tool-for-innodb/) - a tool to recover data from dropped or corrupted InnoDB tables.
+- [UnDROP](https://bitbucket.org/Marc-T/undrop-for-innodb) - a tool to recover data from dropped or corrupted InnoDB tables.
 
 # Resources
 
