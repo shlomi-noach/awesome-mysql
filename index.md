@@ -118,6 +118,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [SequelPro](https://github.com/sequelpro/sequelpro) - a Mac database management application for working with MySQL databases.
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [SQLyog Community edition](https://github.com/webyog/sqlyog-community/wiki/Downloads) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
+- [DBeaver](http://dbeaver.jkiss.org/) - A cross-platform SQL and NoSQL database client.
 
 
 ## HA
