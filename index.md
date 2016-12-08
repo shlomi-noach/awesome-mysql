@@ -112,6 +112,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *GUI frontends & applications*
 
 - [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
+- [Datazenit](https://datazenit.com/) - Web-based MySQL GUI with query builder, data grid and charts.
 - [HeidiSQL](http://www.heidisql.com/) - MySQL GUI frontend for Windows.
 - [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
 - [phpMyAdmin](https://www.phpmyadmin.net/) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
