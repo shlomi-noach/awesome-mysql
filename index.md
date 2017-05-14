@@ -43,7 +43,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [pstop](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
 - [mysql-statsd](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
 - [MySQLTuner-perl](http://mysqltuner.com) - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
-
+- [Percona Monitoring and Management](https://www.percona.com/doc/percona-monitoring-and-management/index.html) -  An open-source platform for managing and monitoring MySQL performance. 
 ## Backup
 
 *Backup/restore/recovery tools*
@@ -118,6 +118,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [SequelPro](https://github.com/sequelpro/sequelpro) - a Mac database management application for working with MySQL databases.
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [SQLyog Community edition](https://github.com/webyog/sqlyog-community/wiki/Downloads) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
+- [Percona Monitoring and Management](https://www.percona.com/doc/percona-monitoring-and-management/index.html) -  An open-source platform for managing and monitoring MySQL performance. 
 
 
 ## HA
