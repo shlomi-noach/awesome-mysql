@@ -44,6 +44,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [mysql-statsd](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
 - [MySQLTuner-perl](http://mysqltuner.com) - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
 - [Percona Monitoring and Management](https://www.percona.com/doc/percona-monitoring-and-management/index.html) -  An open-source platform for managing and monitoring MySQL performance. 
+- [MySQL Explain Analyzer](https://github.com/Preetam/explain-analyzer) - A web-based analyzer of `EXPLAIN FORMAT=JSON` output, providing comments, scalability analysis and permalinks for saved samples.
 ## Backup
 
 *Backup/restore/recovery tools*
