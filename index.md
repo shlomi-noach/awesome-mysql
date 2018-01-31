@@ -122,7 +122,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Percona Monitoring and Management](https://www.percona.com/doc/percona-monitoring-and-management/index.html) -  An open-source platform for managing and monitoring MySQL performance. 
 - [pspg](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
 - [Ocelot GUI](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger
-
+- [TablePlus](http://tableplus.io/) - Tool for Relational Database (supports PostgreSQL **MySQL** RedShift SQL Server SQLite **MariaDB**). For Mac (soon for Windows).
 
 ## HA
 
