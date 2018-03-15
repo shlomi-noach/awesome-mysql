@@ -95,7 +95,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *MySQL deployment tools*
 
 - [MySQL Docker](https://hub.docker.com/_/mysql/) - Official Docker images.
-- [MySQL Sandbox](http://mysqlsandbox.net/) - a tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
+- [dbdeployer](https://www.dbdeployer.com) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
 
 
 ## Development
