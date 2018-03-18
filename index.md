@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-A curated list of awesome MySQL software, libraries and resources. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+A curated list of awesome MySQL free and opensource software, libraries and resources. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 This list accepts and encourages pull requests. See [CONTRIBUTING](https://github.com/shlomi-noach/awesome-mysql/blob/master/CONTRIBUTING.md)
 
@@ -113,6 +113,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *GUI frontends & applications*
 
 - [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
+- [DataGrip](https://www.jetbrains.com/datagrip/) - Cross-Platform IDE for Databases & SQL by JetBrains.
 - [HeidiSQL](http://www.heidisql.com/) - MySQL GUI frontend for Windows.
 - [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
 - [phpMyAdmin](https://www.phpmyadmin.net/) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
