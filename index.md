@@ -229,5 +229,4 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *Getting help, collaborating and sharing SQL*
 
 - [DB Fiddle](https://www.db-fiddle.com/) - Web based SQL access with chat and interaction
-- [SQL Fiddle](http://sqlfiddle.com/) - Web SQL service for sharing and running SQL
 - [#mysql])(irc://freenode.net/#mysql) or web(http://webchat.freenode.net/) - irc to seek help about your MySQL problems
