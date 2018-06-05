@@ -30,6 +30,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
     - [E-Books](#e-books)
     - [Media](#media)
     - [Newsletters](#newsletters)
+    - [Collaboration](#collaboration)
 
 
 ## Analysis
@@ -221,3 +222,12 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *Newsletters require an email address, by definition. List below are newsletters that require nothing but an email address*
 
 - [Weekly MySQL News](http://mysqlnewsletter.com/) - Unofficial weekly news digest of all things MySQL.
+
+
+## Collaboration
+
+*Getting help, collaborating and sharing SQL*
+
+- [DB Fiddle](https://www.db-fiddle.com/) - Web based SQL access with chat and interaction
+- [SQL Fiddle](http://sqlfiddle.com/) - Web SQL service for sharing and running SQL
+- [#mysql])(irc://freenode.net/#mysql) or web(http://webchat.freenode.net/) - irc to seek help about your MySQL problems
