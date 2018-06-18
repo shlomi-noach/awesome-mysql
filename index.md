@@ -124,6 +124,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [pspg](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
 - [Ocelot GUI](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger
 - [DBeaver](https://github.com/dbeaver/dbeaver) - A cross-platform SQL and NoSQL database client.
+- [TablePlus](https://tableplus.io) - A modern, native GUI client for multiple relational databases
 
 ## HA
 
