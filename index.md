@@ -21,6 +21,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
     - [Proxy](#proxy)
     - [Replication](#replication)
     - [Schema](#schema)
+    - [Security](#security)
     - [Server](#server)
     - [Sharding](#sharding)
     - [Toolkits](#toolkits)
@@ -161,6 +162,12 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [common_schema](https://github.com/shlomi-noach/common_schema) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
 - [sys](https://github.com/mysql/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
 
+
+## Security
+
+*Tools that prevents leaking of sensitive data from database (encryption, masking and tokenization, honey-pots, etc)*
+
+- [Acra](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
 
 ## Server
 
