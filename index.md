@@ -44,7 +44,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [pstop](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
 - [mysql-statsd](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
 - [MySQLTuner-perl](http://mysqltuner.com) - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
-- [Percona Monitoring and Management](https://www.percona.com/doc/percona-monitoring-and-management/index.html) -  An open-source platform for managing and monitoring MySQL performance. 
+- [Percona Monitoring and Management](https://www.percona.com/doc/percona-monitoring-and-management/index.html) - An open-source platform for managing and monitoring MySQL performance.
 - [MySQL Explain Analyzer](https://github.com/Preetam/explain-analyzer) - A web-based analyzer of `EXPLAIN FORMAT=JSON` output, providing comments, scalability analysis and permalinks for saved samples.
 ## Backup
 
@@ -90,6 +90,9 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [PHP mysqlnd](https://dev.mysql.com/downloads/connector/php-mysqlnd/) - MySQL native driver for MySQL, deprecating older libmysql based driver.
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
 - [Ruby Mysql2 gem](https://github.com/brianmario/mysql2) - MySQL driver for Ruby and Rails projects.
+- [Connector/Node.js](https://dev.mysql.com/downloads/connector/nodejs/) - Official Node.js driver for MySQL.
+- [Connector/C](https://dev.mysql.com/downloads/connector/c/) - Official C driver for MySQL.
+- [Connector/CPP](https://dev.mysql.com/downloads/connector/cpp/) - Official C++ driver for MySQL.
 
 ## Deployment
 
@@ -121,10 +124,11 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [SequelPro](https://github.com/sequelpro/sequelpro) - a Mac database management application for working with MySQL databases.
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [SQLyog Community edition](https://github.com/webyog/sqlyog-community/wiki/Downloads) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
-- [Percona Monitoring and Management](https://www.percona.com/doc/percona-monitoring-and-management/index.html) -  An open-source platform for managing and monitoring MySQL performance. 
+- [Percona Monitoring and Management](https://www.percona.com/doc/percona-monitoring-and-management/index.html) - An open-source platform for managing and monitoring MySQL performance.
 - [pspg](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
-- [Ocelot GUI](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger
+- [Ocelot GUI](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - A cross-platform SQL and NoSQL database client.
+- [MySQL Shell](https://dev.mysql.com/downloads/shell/) - Advanced client and code editor for MySQL that supports development and administration for the MySQL Server and MySQL InnoDB cluster (AdminAPI) with an interactive JavaScript, Python, or SQL interface.
 
 ## HA
 
@@ -133,9 +137,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Galera Cluster](http://galeracluster.com/products/) - a true Multimaster Cluster based on synchronous replication.
 - [MariaDB Replication Manager](https://github.com/mariadb-corporation/replication-manager) - a high availability solution to manage MariaDB 10.x GTID replication.
 - [MHA](http://code.google.com/p/mysql-master-ha/) - Master High Availability Manager and tools for MySQL
-- [MySQL Fabric](https://www.mysql.com/products/enterprise/fabric.html) - an extensible framework for managing farms of MySQL Servers.
 - [Percona Replication Manager](https://github.com/percona/percona-pacemaker-agents/) - Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.
-
 
 ## Proxy
 
@@ -145,7 +147,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Mixer](https://github.com/siddontang/mixer) - a MySQL proxy powered by Go which aims to supply a simple solution for MySQL sharding.
 - [MySQL Proxy](https://launchpad.net/mysql-proxy) - A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication.
 - [ProxySQL](https://github.com/renecannao/proxysql) - High performance proxy for MySQL.
-- [MySQL Router](https://dev.mysql.com/doc/mysql-router/en/) - MySQL Router is lightweight middleware that provides transparent routing between your application and any backend MySQL Servers.
+- [MySQL Router](https://dev.mysql.com/doc/mysql-router/en/) - MySQL Router is part of InnoDB cluster, and is a lightweight middleware that provides transparent routing between your application and back-end MySQL Servers.
 
 ## Replication
 
