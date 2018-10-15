@@ -178,6 +178,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [MariaDB](https://github.com/MariaDB/server) - Community developed fork of MySQL server.
 - [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) - Official Oracle's MySQL server & MySQL Cluster distribution.
 - [Percona Server](https://launchpad.net/percona-server) - An enhanced, drop-in MySQL replacement.
+- [TiDB](https://github.com/pingcap/tidb) - A distributed HTAP database compatible with the MySQL protocol.
 
 ## Sharding
 
