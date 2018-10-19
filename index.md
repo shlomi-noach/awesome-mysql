@@ -218,6 +218,8 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
 
+- [SQLzoo](http://sqlzoo.net) - learn SQL using MySQL, includes nine tutorials with corresponding quizzes.
+
 ## Media
 
 *Public, ongoing video & audio casts. This excludes conference presentations in fear of list size*
