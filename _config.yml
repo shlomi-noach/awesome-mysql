@@ -1,9 +1,0 @@
-# Site settings
-title: Awesome MySQL
-tag_text: Awesome MySQL
-description: A curated list of awesome MySQL software, libraries and resources.
-
-# Build settings
-markdown: kramdown
-
-exclude: ["README.md"]
