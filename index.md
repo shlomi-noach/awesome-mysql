@@ -5,4 +5,4 @@ layout: default
 
 A curated list of awesome MySQL free and opensource software, libraries and resources.
 
-The list is available in https://github.com/shlomi-noach/awesome-mysql
+The list is available in [https://github.com/shlomi-noach/awesome-mysql](https://github.com/shlomi-noach/awesome-mysql)
