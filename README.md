@@ -10,6 +10,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
     - [Analysis](#analysis)
     - [Backup](#backup)
     - [Benchmarking](#benchmarking)
+    - [Binlog Replication](#binlog-replication
     - [ChatOps](#chatops)
     - [Configuration](#configuration)
     - [Connectors](#connectors)
@@ -60,6 +61,11 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [iibench-mysql](https://github.com/tmcallaghan/iibench-mysql) - Java based version of the Index Insertion Benchmark for MySQL/Percona/MariaDB.
 - [Sysbench](https://github.com/akopytov/sysbench) - a modular, cross-platform and multi-threaded benchmark tool.
 - [TPCC-MySQL](https://code.launchpad.net/~percona-dev/perconatools/tpcc-mysql) - A port of the popular [TPCC](http://www.tpc.org/tpcc/) benchmark for MySQL.
+
+## Binlog-Replication
+
+- [Kingbus](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
+- [mysql-ripple](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
 
 ## ChatOps
 
