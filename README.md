@@ -10,7 +10,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
     - [Analysis](#analysis)
     - [Backup](#backup)
     - [Benchmarking](#benchmarking)
-    - [Binlog Replication](#binlog-replication
+    - [Binlog Replication](#binlog-replication)
     - [ChatOps](#chatops)
     - [Configuration](#configuration)
     - [Connectors](#connectors)
