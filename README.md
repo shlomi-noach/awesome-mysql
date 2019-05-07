@@ -67,6 +67,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [Kingbus](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
 - [mysql-ripple](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
+- [canal](https://github.com/alibaba/canal) - A real-time mysql binlog parser to queue
 
 ## ChatOps
 
