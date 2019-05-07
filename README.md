@@ -160,7 +160,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *Replication related software*
 
-- [Tungsten Replicator](https://github.com/vmware/tungsten-replicator) - A high performance, open source, data replication engine for MySQL.
 
 
 ## Schema
