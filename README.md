@@ -135,6 +135,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [SequelPro](https://github.com/sequelpro/sequelpro) - a Mac database management application for working with MySQL databases.
 - [SQLyog Community edition](https://github.com/webyog/sqlyog-community/wiki/Downloads) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
 - [DBeaver](https://github.com/dbeaver/dbeaver) - A cross-platform SQL and NoSQL database client.
+- [OmniDB/OmniDB: Web tool for database management](https://github.com/OmniDB/OmniDB)
 
 ## HA
 
