@@ -116,6 +116,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Liquibase](http://www.liquibase.org/) - Source control for your database
 - [Propagator](https://github.com/outbrain/propagator) - Centralized schema & data deployment on a multi-everything topology
 - [Shift](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
+- [Test database](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
 
 
 ## GUI
