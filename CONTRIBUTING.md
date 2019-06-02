@@ -2,8 +2,8 @@ This list [accepts and encourages pull requests](https://github.com/shlomi-noach
 
 # Contribution Guidelines
 
-- **To add to the list:** Submit a pull request to index.md, optionally add comment if you wish to elaborate/explain.
-- **To edit an item:** Submit a pull request to index.md, add comment explaining the reasoning behind the change.
+- **To add to the list:** Submit a pull request to README.md, optionally add comment if you wish to elaborate/explain.
+- **To edit an item:** Submit a pull request to README.md, add comment explaining the reasoning behind the change.
 - **To remove from the list:** Open an issue
 
 You may add, edit, or request to remove:
@@ -16,7 +16,7 @@ This is an attempt to make a curated list of high-quality, maintained, useful My
 
 - Submitting software:
   - Must be free and open source. Must have an acknowledged open source license. I'm not a lawyer, so I'll go with the
-    FSF listings. Propriety, trial, shareware, halfway open sourced etc., will not be accepted, and will be removed.
+    FSF listings. Proprietary, trial, shareware, halfway open sourced etc., will not be accepted, and will be removed.
   - Must be reasonably recognized and adopted. Please do not add your newly created untested scripts.
   - The code must have been active in some production environment and must be in a reasonably GA quality.
   - Code must not be abandoned/discontinued.
