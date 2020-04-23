@@ -13,7 +13,7 @@ jobs:
 
     - name: test contributions
       run: |
-        for term in v ; do
+        for term in "planet.mysql" "planet mysql" ; do
           if cat README.md | grep -q -i "$term" ; then
             echo "Found '$term' in README.md. '$term' is not allowed."
             exit 1
