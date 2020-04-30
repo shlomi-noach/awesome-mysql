@@ -1,0 +1,21 @@
+name: test
+
+on: [pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+
+    - name: check out
+      uses: actions/checkout@v2
+
+    - name: test contributions
+      run: |
+        for term in "terms-that-do-not-qualify-as-awesome" ; do
+          if cat README.md | grep -q -i "$term" ; then
+            echo "Found '$term' in README.md. '$term' is not allowed."
+            exit 1
+          fi
+        done
