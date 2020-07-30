@@ -59,9 +59,9 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *Tools to stress your servers*
 
 - [iibench-mysql](https://github.com/tmcallaghan/iibench-mysql) - Java based version of the Index Insertion Benchmark for MySQL/Percona/MariaDB.
+- [go-tpc](https://github.com/pingcap/go-tpc) - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
 - [Sysbench](https://github.com/akopytov/sysbench) - a modular, cross-platform and multi-threaded benchmark tool.
 - [TPCC-MySQL](https://code.launchpad.net/~percona-dev/perconatools/tpcc-mysql) - A port of the popular [TPCC](http://www.tpc.org/tpcc/) benchmark for MySQL.
-- [go-tpc](https://github.com/pingcap/go-tpc) - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
 
 ## Binlog-Replication
 
