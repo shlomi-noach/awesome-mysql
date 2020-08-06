@@ -117,7 +117,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [Flywaydb](http://flywaydb.org/getstarted/) - Database migrations; Evolve your database schema easily and reliably across all your instances
 - [Liquibase](http://www.liquibase.org/) - Source control for your database
-- [Propagator](https://github.com/outbrain/propagator) - Centralized schema & data deployment on a multi-everything topology
 - [Shift](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
 - [Skeema](https://www.skeema.io) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools
 - [Test database](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
