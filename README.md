@@ -225,6 +225,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *e-books as well as relevant materials on and around MySQL*
 
+- [Database Systems Lecture Notes](http://spots.augusta.edu/caubert/db/ln/) - lecture notes on Database Systems (available in [pdf](http://spots.augusta.edu/caubert/db/ln/CSCI_3410_lecture_notes.pdf), [html](http://spots.augusta.edu/caubert/db/ln/CSCI_3410_lecture_notes.html), [odt](http://spots.augusta.edu/caubert/db/ln/CSCI_3410_lecture_notes.odt) and [markdown](https://rocketgit.com/user/caubert/CSCI_3410/source/tree/branch/master/blob/notes/lectures_notes.md)) including a [Chapter on SQL](http://spots.augusta.edu/caubert/db/ln/CSCI_3410_lecture_notes.html#the-sql-programming-language) that covers [basic set-up](http://spots.augusta.edu/caubert/db/ln/CSCI_3410_lecture_notes.html#setting-up-your-work-environment), [exercises](http://spots.augusta.edu/caubert/db/ln/CSCI_3410_lecture_notes.html#exercises-9) and [problems](http://spots.augusta.edu/caubert/db/ln/CSCI_3410_lecture_notes.html#problems-9).
 - [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
 
 ## Media
