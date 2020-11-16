@@ -159,6 +159,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [MySQL Proxy](https://launchpad.net/mysql-proxy) - A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication.
 - [ProxySQL](https://github.com/renecannao/proxysql) - High performance proxy for MySQL.
 - [MySQL Router](https://dev.mysql.com/doc/mysql-router/en/) - MySQL Router is part of InnoDB cluster, and is a lightweight middleware that provides transparent routing between your application and back-end MySQL Servers.
+- [ShardingSphere-Proxy](https://github.com/apache/shardingsphere) - ShardingSphere-Proxy defines itself as a transparent database proxy, providing a database server that encapsulates database binary protocol to support heterogeneous languages.
 
 ## Replication
 
@@ -195,6 +196,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [jetpants](https://github.com/tumblr/jetpants) - An automation suite for managing large range sharding clusters, by Tumblr.
 - [vitess](https://github.com/vitessio/vitess) - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
+- [Apache ShardingSphere](https://github.com/apache/shardingsphere) - Apache ShardingSphere is an open-source ecosystem consisted of a set of distributed database middleware solutions, provide functions of data sharding, distributed transaction and database orchestration, applicable in a variety of situations such as Java isomorphism, heterogeneous language and cloud native. 
 
 
 ## Toolkits
