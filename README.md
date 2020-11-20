@@ -109,6 +109,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [MySQL Docker](https://hub.docker.com/_/mysql/) - Official Docker images.
 - [dbdeployer](https://www.dbdeployer.com) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
+- [ScaleChamp](https://www.scalechamp.com/) - Managed databases provider with MySQL support across 12 public clouds.
 
 
 ## Development
