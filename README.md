@@ -46,6 +46,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Percona Monitoring and Management](https://www.percona.com/doc/percona-monitoring-and-management/index.html) - An open-source platform for managing and monitoring MySQL performance.
 - [Prometheus](https://prometheus.io/)/[mysqld_exporter](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
 - [pstop](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance_schema.
+- [soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter, a powerful optimizer/inspecter/advisor for MySQL querys
 ## Backup
 
 *Backup/restore/recovery tools*
@@ -69,6 +70,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [DM](https://github.com/pingcap/dm) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
 - [Kingbus](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
 - [mysql-ripple](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
+- [canal](https://github.com/alibaba/canal) - A real-time mysql binlog parser to queue
 
 ## ChatOps
 
