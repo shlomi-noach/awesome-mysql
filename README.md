@@ -4,7 +4,6 @@ A curated list of awesome MySQL free and opensource software, libraries and reso
 
 This list accepts and encourages pull requests. See [CONTRIBUTING](https://github.com/shlomi-noach/awesome-mysql/blob/master/CONTRIBUTING.md)
 
-### Contents
 
 - [Awesome MySQL](#awesome-mysql)
     - [Analysis](#analysis)
@@ -179,6 +178,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *Tools that prevents leaking of sensitive data from database (encryption, masking and tokenization, honey-pots, etc)*
 
 - [Acra](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
+- [Databunker](https://databunker.org/) - Secure personal data or PII storage build on top of MySQL. The product comes with full GDPR compliance.
 
 ## Server
 
