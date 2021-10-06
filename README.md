@@ -135,7 +135,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Percona Monitoring and Management](https://www.percona.com/doc/percona-monitoring-and-management/index.html) - An open-source platform for managing and monitoring MySQL performance.
 - [phpMyAdmin](https://www.phpmyadmin.net/) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
 - [pspg](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
-- [SequelPro](https://github.com/sequelpro/sequelpro) - a Mac database management application for working with MySQL databases.
+- [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
 - [SQLyog Community edition](https://github.com/webyog/sqlyog-community/wiki/Downloads) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
 - [DBeaver](https://github.com/dbeaver/dbeaver) - A cross-platform SQL and NoSQL database client.
 - [OmniDB/OmniDB: Web tool for database management](https://github.com/OmniDB/OmniDB)
