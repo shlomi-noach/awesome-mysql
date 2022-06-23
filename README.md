@@ -164,6 +164,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *Replication related software*
 
+* [data-diff](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
 
 
 ## Schema
