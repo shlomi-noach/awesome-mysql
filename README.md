@@ -38,6 +38,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *Performance, structure & data analysis tools*
 
 - [Anemometer](https://github.com/box/Anemometer) - Box SQL slow query monitor.
+- [EverSQL](https://www.eversql.com/) - AI-Powered automated query optimization tool, performance monitoring and analysis platform, indexing recommendation tool.
 - [innodb-ruby](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
 - [innotop](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
 - [MySQL Explain Analyzer](https://github.com/Preetam/explain-analyzer) - A web-based analyzer of `EXPLAIN FORMAT=JSON` output, providing comments, scalability analysis and permalinks for saved samples.
