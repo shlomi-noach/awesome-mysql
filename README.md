@@ -140,6 +140,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [SQLyog Community edition](https://github.com/webyog/sqlyog-community/wiki/Downloads) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
 - [DBeaver](https://github.com/dbeaver/dbeaver) - A cross-platform SQL and NoSQL database client.
 - [OmniDB/OmniDB: Web tool for database management](https://github.com/OmniDB/OmniDB)
+- [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 
 ## HA
 
