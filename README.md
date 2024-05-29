@@ -51,7 +51,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *Backup/restore/recovery tools*
 
 - [Dumpling](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
-- [MyDumper](https://github.com/maxbube/mydumper) - Logical, parallel backup/dumper tool for MySQL
+- [MyDumper](https://github.com/mydumper/mydumper) - Logical, parallel backup/dumper tool for MySQL
 - [MySQLDumper](http://www.mysqldumper.net/) - open-source web based backup tool - useful for shared webhosting
 - [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
 
@@ -97,8 +97,8 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [libAttachSQL](https://github.com/libattachsql/libattachsql) - libAttachSQL is a lightweight, non-blocking C API for MySQL servers.
 - [MariaDB Java Client](https://mariadb.com/kb/en/mariadb/mariadb-connector-j/) - LGPL-licensed MariaDB Client Library for Java Applications.
 - [mex-mariadb](https://github.com/markuman/mex-mariadb) - MIT licensed MariaDB/MySQL Client Library for GNU Octave and Matlab.
-- [mysqlclient-python](https://github.com/PyMySQL/mysqlclient-python) - (Old) MySQL database connector for Python.
-- [node-mysql](https://github.com/felixge/node-mysql) - A pure Nodejs Javascript client implementing the MySQL protocol.
+- [mysqlclient-python](https://github.com/PyMySQL/mysqlclient) - (Old) MySQL database connector for Python.
+- [node-mysql](https://github.com/mysqljs/node) - A pure Nodejs Javascript client implementing the MySQL protocol.
 - [PHP mysqlnd](https://dev.mysql.com/downloads/connector/php-mysqlnd/) - MySQL native driver for MySQL, deprecating older libmysql based driver.
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
 - [Ruby Mysql2 gem](https://github.com/brianmario/mysql2) - MySQL driver for Ruby and Rails projects.
@@ -137,7 +137,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [phpMyAdmin](https://www.phpmyadmin.net/) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
 - [pspg](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
-- [SQLyog Community edition](https://github.com/webyog/sqlyog-community/wiki/Downloads) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
+- [SQLyog Community edition](https://github.com/webyog/sqlyog-community) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
 - [DBeaver](https://github.com/dbeaver/dbeaver) - A cross-platform SQL and NoSQL database client.
 - [OmniDB/OmniDB: Web tool for database management](https://github.com/OmniDB/OmniDB)
 
@@ -147,7 +147,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [Galera Cluster](http://galeracluster.com/products/) - a true Multimaster Cluster based on synchronous replication.
 - [MHA](http://code.google.com/p/mysql-master-ha/) - Master High Availability Manager and tools for MySQL.
-- [orchestrator](https://github.com/github/orchestrator) - MySQL replication topology management and High Availability solution.
+- [orchestrator](https://github.com/openark/orchestrator) - MySQL replication topology management and High Availability solution.
 - [Percona Replication Manager](https://github.com/percona/replication-manager) - Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.
 - [replication-manager](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
 
@@ -203,7 +203,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *Toolkits, general purpose scripts*
 
 - [gh-ost](https://github.com/github/gh-ost/) - GitHub's online schema migration for MySQL.
-- [go-mysql](https://github.com/siddontang/go-mysql) - A pure go library to handle MySQL network protocol and replication.
+- [go-mysql](https://github.com/go-mysql-org/go-mysql) - A pure go library to handle MySQL network protocol and replication.
 - [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
 - [Percona Toolkit](https://www.percona.com/software/mysql-tools/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
 - [UnDROP](https://bitbucket.org/Marc-T/undrop-for-innodb) - a tool to recover data from dropped or corrupted InnoDB tables.
