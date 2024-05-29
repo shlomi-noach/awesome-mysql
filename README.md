@@ -68,7 +68,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [DM](https://github.com/pingcap/tiflow) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
 - [Kingbus](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
-- [mysql-ripple](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
+- [mysql-ripple](https://github.com/google/mysql-ripple) (archived) - Ripple, a server that can serve as a middleman in MySQL replication
 
 ## ChatOps
 
@@ -108,7 +108,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *MySQL deployment tools*
 
 - [MySQL Docker](https://hub.docker.com/_/mysql/) - Official Docker images.
-- [dbdeployer](https://www.dbdeployer.com) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
+- [dbdeployer](https://www.dbdeployer.com) (archived) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
 
 
 ## Development
