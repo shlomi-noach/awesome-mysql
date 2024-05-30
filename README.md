@@ -53,7 +53,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Dumpling](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
 - [MyDumper](https://github.com/mydumper/mydumper) - Logical, parallel backup/dumper tool for MySQL
 - [MySQLDumper](http://www.mysqldumper.net/) - open-source web based backup tool - useful for shared webhosting
-- [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
+- [Percona Xtrabackup](https://github.com/percona/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
 
 ## Benchmarking
 
@@ -62,7 +62,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [iibench-mysql](https://github.com/tmcallaghan/iibench-mysql) - Java based version of the Index Insertion Benchmark for MySQL/Percona/MariaDB.
 - [go-tpc](https://github.com/pingcap/go-tpc) - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
 - [Sysbench](https://github.com/akopytov/sysbench) - a modular, cross-platform and multi-threaded benchmark tool.
-- [TPCC-MySQL](https://code.launchpad.net/~percona-dev/perconatools/tpcc-mysql) - A port of the popular [TPCC](http://www.tpc.org/tpcc/) benchmark for MySQL.
+- [TPCC-MySQL](https://github.com/Percona-Lab/tpcc-mysql) (archived) - A port of the popular [TPCC](http://www.tpc.org/tpcc/) benchmark for MySQL.
 
 ## Binlog-Replication
 
