@@ -53,6 +53,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [MyDumper](https://github.com/maxbube/mydumper) - Logical, parallel backup/dumper tool for MySQL
 - [MySQLDumper](http://www.mysqldumper.net/) - open-source web based backup tool - useful for shared webhosting
 - [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
+- [MySQLDump.js](https://github.com/SirwanAfifi/sqldumpjs) - A tiny wrapper around mysqldump utility to generate a dump file of a MySQL database.
 
 ## Benchmarking
 
