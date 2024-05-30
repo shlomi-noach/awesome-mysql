@@ -27,7 +27,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
     - [Toolkits](#toolkits)
 
 - [Resources](#resources)
-    - [Conferences](#conferences)
     - [E-Books](#e-books)
     - [Media](#media)
     - [Newsletters](#newsletters)
@@ -50,7 +49,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *Backup/restore/recovery tools*
 
-- [Dumpling](https://github.com/pingcap/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
+- [Dumpling](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
 - [MyDumper](https://github.com/maxbube/mydumper) - Logical, parallel backup/dumper tool for MySQL
 - [MySQLDumper](http://www.mysqldumper.net/) - open-source web based backup tool - useful for shared webhosting
 - [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
@@ -66,7 +65,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 ## Binlog-Replication
 
-- [DM](https://github.com/pingcap/dm) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
+- [DM](https://github.com/pingcap/tiflow) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
 - [Kingbus](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
 - [mysql-ripple](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
 
@@ -156,7 +155,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *Proxies to MySQL*
 
-- [MaxScale](https://github.com/mariadb-corporation/MaxScale) - open-source, database-centric proxy.
 - [Mixer](https://github.com/siddontang/mixer) - a MySQL proxy powered by Go which aims to supply a simple solution for MySQL sharding.
 - [MySQL Proxy](https://launchpad.net/mysql-proxy) - A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication.
 - [ProxySQL](https://github.com/renecannao/proxysql) - High performance proxy for MySQL.
@@ -207,22 +205,12 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [gh-ost](https://github.com/github/gh-ost/) - GitHub's online schema migration for MySQL.
 - [go-mysql](https://github.com/siddontang/go-mysql) - A pure go library to handle MySQL network protocol and replication.
 - [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
-- [openark kit](http://code.openark.org/forge/openark-kit) - a set of utilities that solve everyday maintenance tasks, which may be complicated or time consuming to do by hand, written in Python.
 - [Percona Toolkit](https://www.percona.com/software/mysql-tools/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
 - [UnDROP](https://bitbucket.org/Marc-T/undrop-for-innodb) - a tool to recover data from dropped or corrupted InnoDB tables.
 
 # Resources
 
 *At this stage "resources" will not include websites, blogs, slides, presentation videos, etc. in fear of list size*
-
-## Conferences
-
-*Public, recurring conferences on and around MySQL*
-
-- [FOSDEM](https://fosdem.org/) - a free event for software developers to meet, share ideas and collaborate. Annually, in Brussels. Offers "MySQL & friends" room.
-- [MySQL Central](https://www.oracle.com/openworld/mysql/index.html) - Oracle's annual MySQL conference, as part of Oracle Open World.
-- [Percona Live](https://www.percona.com/live/conferences) - MySQL & Openstack focused conference.
-- [SCALE](https://www.socallinuxexpo.org) - A community organized Linux and Open Source conference held annually in Southern California. The local MySQL community runs a track under the name MySQL Community Day.
 
 ## e-books
 
