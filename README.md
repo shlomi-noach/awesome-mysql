@@ -141,6 +141,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [SQLyog Community edition](https://github.com/webyog/sqlyog-community) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
 - [DBeaver](https://github.com/dbeaver/dbeaver) - A cross-platform SQL and NoSQL database client.
 - [OmniDB/OmniDB: Web tool for database management](https://github.com/OmniDB/OmniDB)
+- [WebDB](https://github.com/WebDB-App/app) – Open Source and Efficient Database IDE. Featuring Easy server connection, Modern ERD, Intelligent data generator, AI assistant, NoSQL structure manager, Time machine and Powerful query editor
 
 ## HA
 
