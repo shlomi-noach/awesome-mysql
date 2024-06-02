@@ -27,7 +27,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
     - [Toolkits](#toolkits)
 
 - [Resources](#resources)
-    - [Conferences](#conferences)
     - [E-Books](#e-books)
     - [Media](#media)
     - [Newsletters](#newsletters)
@@ -68,7 +67,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [DM](https://github.com/pingcap/tiflow) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
 - [Kingbus](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
-- [mysql-ripple](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
+- [mysql-ripple](https://github.com/google/mysql-ripple) (archived) - Ripple, a server that can serve as a middleman in MySQL replication
 
 ## ChatOps
 
@@ -108,7 +107,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *MySQL deployment tools*
 
 - [MySQL Docker](https://hub.docker.com/_/mysql/) - Official Docker images.
-- [dbdeployer](https://www.dbdeployer.com) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
+- [dbdeployer](https://www.dbdeployer.com) (archived) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
 
 
 ## Development
@@ -155,7 +154,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *Proxies to MySQL*
 
-- [Mixer](https://github.com/siddontang/mixer) - a MySQL proxy powered by Go which aims to supply a simple solution for MySQL sharding.
 - [MySQL Proxy](https://launchpad.net/mysql-proxy) - A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication.
 - [ProxySQL](https://github.com/sysown/proxysql) - High performance proxy for MySQL.
 - [MySQL Router](https://dev.mysql.com/doc/mysql-router/en/) - MySQL Router is part of InnoDB cluster, and is a lightweight middleware that provides transparent routing between your application and back-end MySQL Servers.
@@ -211,15 +209,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 # Resources
 
 *At this stage "resources" will not include websites, blogs, slides, presentation videos, etc. in fear of list size*
-
-## Conferences
-
-*Public, recurring conferences on and around MySQL*
-
-- [FOSDEM](https://fosdem.org/) - a free event for software developers to meet, share ideas and collaborate. Annually, in Brussels. Offers "MySQL & friends" room.
-- [MySQL Central](https://www.oracle.com/openworld/mysql/index.html) - Oracle's annual MySQL conference, as part of Oracle Open World.
-- [Percona Live](https://www.percona.com/live/conferences) - MySQL & Openstack focused conference.
-- [SCALE](https://www.socallinuxexpo.org) - A community organized Linux and Open Source conference held annually in Southern California. The local MySQL community runs a track under the name MySQL Community Day.
 
 ## e-books
 
