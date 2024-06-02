@@ -51,7 +51,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [Dumpling](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
 - [MyDumper](https://github.com/maxbube/mydumper) - Logical, parallel backup/dumper tool for MySQL
-- [MySQLDumper](http://www.mysqldumper.net/) - open-source web based backup tool - useful for shared webhosting
 - [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
 
 ## Benchmarking
@@ -67,7 +66,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [DM](https://github.com/pingcap/tiflow) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
 - [Kingbus](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
-- [mysql-ripple](https://github.com/google/mysql-ripple) - Ripple, a server that can serve as a middleman in MySQL replication
+- [mysql-ripple](https://github.com/google/mysql-ripple) (archived) - Ripple, a server that can serve as a middleman in MySQL replication
 
 ## ChatOps
 
@@ -107,7 +106,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *MySQL deployment tools*
 
 - [MySQL Docker](https://hub.docker.com/_/mysql/) - Official Docker images.
-- [dbdeployer](https://www.dbdeployer.com) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
+- [dbdeployer](https://www.dbdeployer.com) (archived) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
 
 
 ## Development
@@ -145,7 +144,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *High availability solutions*
 
 - [Galera Cluster](http://galeracluster.com/products/) - a true Multimaster Cluster based on synchronous replication.
-- [MHA](http://code.google.com/p/mysql-master-ha/) - Master High Availability Manager and tools for MySQL.
+- [mha4mysql-node](https://github.com/yoshinorim/mha4mysql-node) and [mha4mysql-manager](https://github.com/yoshinorim/mha4mysql-manager) - Master High Availability Manager and tools for MySQL.
 - [orchestrator](https://github.com/github/orchestrator) - MySQL replication topology management and High Availability solution.
 - [Percona Replication Manager](https://github.com/percona/replication-manager) - Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.
 - [replication-manager](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
@@ -154,8 +153,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *Proxies to MySQL*
 
-- [Mixer](https://github.com/siddontang/mixer) - a MySQL proxy powered by Go which aims to supply a simple solution for MySQL sharding.
-- [MySQL Proxy](https://launchpad.net/mysql-proxy) - A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication.
+- [MySQL Proxy](https://github.com/mysql/mysql-proxy) (deprecated) - A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication.
 - [ProxySQL](https://github.com/renecannao/proxysql) - High performance proxy for MySQL.
 - [MySQL Router](https://dev.mysql.com/doc/mysql-router/en/) - MySQL Router is part of InnoDB cluster, and is a lightweight middleware that provides transparent routing between your application and back-end MySQL Servers.
 
@@ -203,7 +201,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [gh-ost](https://github.com/github/gh-ost/) - GitHub's online schema migration for MySQL.
 - [go-mysql](https://github.com/siddontang/go-mysql) - A pure go library to handle MySQL network protocol and replication.
-- [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
+- [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) (deprecated) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
 - [Percona Toolkit](https://www.percona.com/software/mysql-tools/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
 - [UnDROP](https://bitbucket.org/Marc-T/undrop-for-innodb) - a tool to recover data from dropped or corrupted InnoDB tables.
 
