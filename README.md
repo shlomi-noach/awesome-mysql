@@ -119,8 +119,8 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Liquibase](https://github.com/liquibase/liquibase) - Source control for your database
 - [Shift](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
 - [Skeema](https://github.com/skeema/skeema) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools
+- [SQLE](https://github.com/actiontech/sqle/blob/main/README_en.md) - SQLE is a SQL audit platform for DBA or developer
 - [Test database](https://github.com/datacharmer/test_db) - A sample MySQL database with an integrated test suite, used to test applications and servers
-
 
 ## GUI
 
