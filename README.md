@@ -116,7 +116,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *Tools to support MySQL-related development*
 
 - [ByteBase](https://www.bytebase.com/) - Validate and version schema changes (amongst other things)
-- [Flywaydb](https://flywaydb.org/) - Database migrations; Evolve your database schema easily and reliably across all your instances
+- [Flywaydb](https://github.com/flyway/flyway) - Database migrations; Evolve your database schema easily and reliably across all your instances
 - [Liquibase](http://www.liquibase.org/) - Source control for your database
 - [Shift](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
 - [Skeema](https://www.skeema.io) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools
