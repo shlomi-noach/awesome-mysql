@@ -159,6 +159,8 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [MySQL Proxy](https://github.com/mysql/mysql-proxy) (deprecated) - A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication.
 - [MySQL Router](https://dev.mysql.com/doc/mysql-router/en/) - MySQL Router is part of InnoDB cluster, and is a lightweight middleware that provides transparent routing between your application and back-end MySQL Servers.
 - [ProxySQL](https://github.com/sysown/proxysql) - High performance proxy for MySQL.
+- [WeScale](https://github.com/wesql/wescale) - WeScale is a database proxy that supports read-write-split, read-after-write-consistency, load balancing and OnlineDDL.
+
 
 ## Replication
 
