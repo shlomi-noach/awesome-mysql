@@ -51,6 +51,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *Backup/restore/recovery tools*
 
 - [Dumpling](https://github.com/pingcap/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
+- [maria-back-me-up](https://github.com/sapcc/maria-back-me-up) - MariaDB backup manager for Kubernetes.
 - [MyDumper](https://github.com/maxbube/mydumper) - Logical, parallel backup/dumper tool for MySQL
 - [MySQLDumper](http://www.mysqldumper.net/) - open-source web based backup tool - useful for shared webhosting
 - [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
