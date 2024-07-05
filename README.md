@@ -202,7 +202,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *Toolkits, general purpose scripts*
 
-* [sqlaxe](https://github.com/djberub/sqlaxe) - CLI tool for searching, filtering, formatting, and splitting SQL files.
+* [sqlaxe](https://github.com/djberube/sqlaxe) - CLI tool for searching, filtering, formatting, and splitting SQL files.
 - [gh-ost](https://github.com/github/gh-ost/) - GitHub's online schema migration for MySQL.
 - [go-mysql](https://github.com/go-mysql-org/go-mysql) - A pure go library to handle MySQL network protocol and replication.
 - [MySQL Utilities](https://github.com/mysql/mysql-utilities) (deprecated) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
