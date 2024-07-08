@@ -102,6 +102,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [PHP mysqlnd](https://www.php.net/manual/en/book.mysqlnd.php) - MySQL native driver for PHP.
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
 - [Ruby Mysql2 gem](https://github.com/brianmario/mysql2) - MySQL driver for Ruby and Rails projects.
+- [MyZql](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
 
 ## Deployment
 
