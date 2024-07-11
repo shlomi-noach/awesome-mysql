@@ -108,6 +108,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *MySQL deployment tools*
 
 - [dbdeployer](https://github.com/datacharmer/dbdeployer) (archived) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
+- [MariaDB4j](https://github.com/MariaDB4j/MariaDB4j) - A Java launcher to run MariaDB without installation or external dependencies.
 - [MySQL Docker](https://hub.docker.com/_/mysql/) - Official Docker images.
 
 
