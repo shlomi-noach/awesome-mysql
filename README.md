@@ -53,6 +53,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Dumpling](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
 - [MyDumper](https://github.com/mydumper/mydumper) - Logical, parallel backup/dumper tool for MySQL
 - [Percona Xtrabackup](https://github.com/percona/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
+- [MySQLDump.js](https://github.com/SirwanAfifi/sqldumpjs) - A tiny wrapper around `mysqldump` utility to generate a dump file of a MySQL database.
 
 ## Benchmarking
 
