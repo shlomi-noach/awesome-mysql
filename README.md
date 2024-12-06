@@ -86,6 +86,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *MySQL connectors for various programming languages*
 
+- [ballerinax/mysql](https://github.com/ballerina-platform/module-ballerinax-mysql) - Official Ballerina connector for MySQL.
 - [DBD::MariaDB](https://github.com/perl5-dbi/DBD-MariaDB) - MariaDB and MySQL driver for the Perl5 Database Interface.
 - [DBD::mysql](https://github.com/perl5-dbi/DBD-mysql) - MySQL driver for the Perl5 Database Interface.
 - [go-sql-driver](https://github.com/go-sql-driver/mysql) - a lightweight and fast MySQL-Driver for Go's (golang) database/sql package.
@@ -93,7 +94,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [MariaDB Connector/J](https://github.com/mariadb-corporation/mariadb-connector-j) - LGPL-licensed MariaDB Client Library for Java Applications.
 - [mex-mariadb](https://github.com/markuman/mex-mariadb) - MIT licensed MariaDB/MySQL Client Library for GNU Octave and Matlab.
 - [MySQL C API](https://dev.mysql.com/downloads/c-api/) - Official C driver for MySQL.
-- [MySQL Connector/Ballerina](https://github.com/ballerina-platform/module-ballerinax-mysql) - Official Ballerina connector for MySQL.
 - [MySQL Connector/C++](https://github.com/mysql/mysql-connector-cpp) - Official C/C++ driver for MySQL.
 - [MySQL Connector/J](https://github.com/mysql/mysql-connector-j) - a standardized database driver for the Java platforms and development.
 - [MySQL Connector/NET](https://github.com/mysql/mysql-connector-net) - a standardized database driver for .Net platforms and development.
