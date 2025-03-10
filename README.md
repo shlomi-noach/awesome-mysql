@@ -105,6 +105,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
 - [Ruby Mysql2 gem](https://github.com/brianmario/mysql2) - MySQL driver for Ruby and Rails projects.
 - [MyZql](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
+- [wtx](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
 
 ## Deployment
 
