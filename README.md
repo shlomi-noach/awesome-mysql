@@ -133,6 +133,8 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [Adminer](https://github.com/vrana/adminer/) - Database management in a single PHP file.
 - [DBeaver](https://github.com/dbeaver/dbeaver/) - A cross-platform SQL and NoSQL database client.
+- [dbForge Edge](https://www.devart.com/dbforge/edge/) - A multidatabase solution for database development, design, management, and administration on MySQL, MariaDB, SQL Server, Oracle, PostgreSQL, and cloud services.
+- [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio/) - A high-end IDE for MySQL and MariaDB.
 - [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - MySQL GUI frontend for Windows.
 - [ILLA Cloud](https://github.com/illacloud/illa-builder) - Low-code internal tool builder integrated with Mysql, can be used as GUI for Mysql. 
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
