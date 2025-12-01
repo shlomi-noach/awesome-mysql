@@ -157,6 +157,10 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Percona Replication Manager](https://github.com/percona/replication-manager) - Asynchronous MySQL replication manager agent for Pacemaker. Supports file and GTID based replication, geo-distributed clusters using booth.
 - [replication-manager](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
 
+## MCP
+
+- [MCP MariaDB Server](https://github.com/MariaDB/mcp) - the official MariaDB MCP server.
+
 ## Proxy
 
 *Proxies to MySQL*
