@@ -161,6 +161,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 ## MCP
 
 - [MCP MariaDB Server](https://github.com/MariaDB/mcp) - the official MariaDB MCP server.
+- [TiDB MCP Server](https://pingcap.github.io/ai/integrations/tidb-mcp-server/) - MCP Server for TiDB.
 
 ## Proxy
 
