@@ -201,6 +201,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [MariaDB](https://github.com/MariaDB/server) - Community developed fork of MySQL server.
 - [MySQL Server & MySQL Cluster](https://github.com/mysql/mysql-server) - Official Oracle's MySQL server & MySQL Cluster distribution.
+- [MyVector](https://github.com/askdba/myvector) - Native vector search plugin for MySQL, shipped as a server plugin.
 - [Percona Server](https://github.com/percona/percona-server) - An enhanced, drop-in MySQL replacement.
 - [TiDB](https://github.com/pingcap/tidb) - A distributed HTAP database compatible with the MySQL protocol.
 
