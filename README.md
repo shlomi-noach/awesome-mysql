@@ -204,6 +204,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [MyVector](https://github.com/askdba/myvector) - Native vector search plugin for MySQL, shipped as a server plugin.
 - [Percona Server](https://github.com/percona/percona-server) - An enhanced, drop-in MySQL replacement.
 - [TiDB](https://github.com/pingcap/tidb) - A distributed HTAP database compatible with the MySQL protocol.
+- [VillageSQL](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
 
 ## Sharding
 
