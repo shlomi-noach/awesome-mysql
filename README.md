@@ -243,3 +243,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 ## Newsletters
 
 *Newsletters require an email address, by definition. List below are newsletters that require nothing but an email address*
+
+## Incubating
+
+Projects that are known to be non-production and yet have either traction or substance that warrants exposure.

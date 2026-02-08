@@ -19,6 +19,7 @@ This is an attempt to make a curated list of high-quality, maintained, useful My
     FSF listings. Proprietary, trial, shareware, halfway open sourced etc., will not be accepted, and will be removed.
   - Must be reasonably recognized and adopted. Please do not add your newly created untested scripts.
   - The code must have been active in some production environment and must be in a reasonably GA quality.
+    - Projects that are known to be non-production and yet have either traction or substance that warrants exposure, may be submitted under `##Incubating` section.
   - Code must not be abandoned/discontinued.
   - Do not include links to documentation. This is not an "awesome library" repository. We might go for that in the future.
 - If e-book, must be free (as in free beer) and without commitment from the user (e.g. no requirement to enter personal details,
