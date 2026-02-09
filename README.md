@@ -56,11 +56,13 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Dumpling](https://github.com/pingcap/tidb/tree/master/dumpling) - Logical, parallel backup/dumper tool for MySQL/TiDB written in GoLang - support csv format output and integrated as library
 - [MyDumper](https://github.com/mydumper/mydumper) - Logical, parallel backup/dumper tool for MySQL
 - [Percona Xtrabackup](https://github.com/percona/percona-xtrabackup) - an open-source hot backup utility for MySQL - based servers that doesn’t lock your database during the backup.
+- [Portabase](https://github.com/Portabase/portabase) - Agent-based platform for MySQL backups and restores with decentralized execution and centralized orchestration.
 
 ## Benchmarking
 
 *Tools to stress your servers*
 
+- [HammerDB](https://github.com/TPC-Council/HammerDB) - An open-source database benchmark for MySQL/MariaDB and other open source and commercial databases.
 - [go-tpc](https://github.com/pingcap/go-tpc) - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
 - [iibench-mysql](https://github.com/tmcallaghan/iibench-mysql) - Java based version of the Index Insertion Benchmark for MySQL/Percona/MariaDB.
 - [Sysbench](https://github.com/akopytov/sysbench) - a modular, cross-platform and multi-threaded benchmark tool.
@@ -243,3 +245,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 ## Newsletters
 
 *Newsletters require an email address, by definition. List below are newsletters that require nothing but an email address*
+
+## Incubating
+
+Projects that are known to be non-production and yet have either traction or substance that warrants exposure.
