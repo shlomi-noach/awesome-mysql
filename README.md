@@ -248,3 +248,5 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 ## Incubating
 
 Projects that are known to be non-production and yet have either traction or substance that warrants exposure.
+
+- [VillageSQL](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
