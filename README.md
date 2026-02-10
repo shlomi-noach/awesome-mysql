@@ -29,8 +29,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [Resources](#resources)
     - [E-Books](#e-books)
-    - [Media](#media)
-    - [Newsletters](#newsletters)
 
 
 ## Analysis
