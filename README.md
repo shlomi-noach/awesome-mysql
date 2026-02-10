@@ -102,7 +102,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [MySQL Connector/Node.js](https://github.com/mysql/mysql-connector-nodejs) - Official Node.js driver for MySQL.
 - [MySQL Connector/Python](https://github.com/mysql/mysql-connector-python) - a standardized database driver for Python platforms and development.
 - [mysqlclient-python](https://github.com/PyMySQL/mysqlclient) - MySQL database connector for Python.
-- [node-mysql](https://github.com/mysqljs/node) - A pure Nodejs Javascript client implementing the MySQL protocol.
+- [node-mysql](https://github.com/mysqljs/mysql) - A pure Nodejs Javascript client implementing the MySQL protocol.
 - [PHP mysqlnd](https://www.php.net/manual/en/book.mysqlnd.php) - MySQL native driver for PHP.
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
 - [Ruby Mysql2 gem](https://github.com/brianmario/mysql2) - MySQL driver for Ruby and Rails projects.
