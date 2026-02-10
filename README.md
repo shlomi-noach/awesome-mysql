@@ -29,8 +29,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [Resources](#resources)
     - [E-Books](#e-books)
-    - [Media](#media)
-    - [Newsletters](#newsletters)
 
 
 ## Analysis
@@ -234,14 +232,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [Database Systems Lecture Notes](http://spots.augusta.edu/caubert/db/ln/) - lecture notes on Database Systems (available in pdf, html, odt and markdown) including a Chapter on SQL that covers basic set-up, exercises and problems.
 - [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) - contains several SQL exercises, including the schema description figure, SQL code to build schema, questions and solutions in SQL. Based on wikibook [SQL Exercises](https://en.wikibooks.org/wiki/SQL_Exercises).
-
-## Media
-
-*Public, ongoing video & audio casts. This excludes conference presentations in fear of list size*
-
-## Newsletters
-
-*Newsletters require an email address, by definition. List below are newsletters that require nothing but an email address*
 
 ## Incubating
 
