@@ -116,6 +116,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *MySQL deployment tools*
 
 - [MariaDB4j](https://github.com/MariaDB4j/MariaDB4j) - A Java launcher to run MariaDB without installation or external dependencies.
+- [mariadb-container](https://github.com/sclorg/mariadb-container) - MariaDB Dockerfiles with a focus on OpenShift usage, but suitable for general use.
 - [MySQL Docker](https://hub.docker.com/_/mysql/) - Official Docker images.
 
 
