@@ -4,6 +4,7 @@ A curated list of awesome MySQL free and opensource software, libraries and reso
 
 This list accepts and encourages pull requests. See [CONTRIBUTING](https://github.com/shlomi-noach/awesome-mysql/blob/master/CONTRIBUTING.md)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for MySQL database workflow orchestration, automated query optimization, and multi-agent coordination. MIT licensed.
 ### Contents
 
 - [Awesome MySQL](#awesome-mysql)
