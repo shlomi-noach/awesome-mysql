@@ -121,6 +121,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *Tools to support MySQL-related development*
 
+- [Bytebase](https://github.com/bytebase/bytebase) - database DevOps and CI/CD for teams, with SQL review, schema migration, and role-based access control.
 - [Flywaydb](https://github.com/flyway/flyway) - Database migrations; Evolve your database schema easily and reliably across all your instances
 - [dbsafe](https://github.com/nethalo/dbsafe) - Pre-execution safety analysis for MySQL DDL/DML operations
 - [Liquibase](https://github.com/liquibase/liquibase) - Source control for your database
