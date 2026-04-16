@@ -149,6 +149,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [pspg](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
 - [SQLyog Community edition](https://github.com/webyog/sqlyog-community) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
+- [squix](https://github.com/eduardofuncao/squix) - SQL command-line client with query management and interactive results.
 - [WebDB](https://github.com/WebDB-App/app) – Open Source and Efficient Database IDE. Featuring Easy server connection, Modern ERD, Intelligent data generator, AI assistant, NoSQL structure manager, Time machine and Powerful query editor
 
 ## HA
