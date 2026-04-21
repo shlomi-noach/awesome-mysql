@@ -148,7 +148,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
 - [pspg](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - a Mac database management application for working with MySQL databases.
-- [TablePro](https://github.com/TableProApp/TablePro) - Native macOS client for MySQL and MariaDB with inline editing, SSH tunneling, and AI assistant. Free and open-source.
+- [TablePro](https://github.com/TableProApp/TablePro) - Native macOS client for MySQL and many other databases with inline editing, SSH tunneling, and AI assistant. Free and open-source.
 - [SQLyog Community edition](https://github.com/webyog/sqlyog-community) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
 - [squix](https://github.com/eduardofuncao/squix) - SQL command-line client with query management and interactive results.
 - [WebDB](https://github.com/WebDB-App/app) – Open Source and Efficient Database IDE. Featuring Easy server connection, Modern ERD, Intelligent data generator, AI assistant, NoSQL structure manager, Time machine and Powerful query editor
