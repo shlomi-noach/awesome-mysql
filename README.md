@@ -115,6 +115,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 *MySQL deployment tools*
 
+- [dbdeployer](https://github.com/ProxySQL/dbdeployer) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
 - [MariaDB4j](https://github.com/MariaDB4j/MariaDB4j) - A Java launcher to run MariaDB without installation or external dependencies.
 
 
