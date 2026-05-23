@@ -144,6 +144,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [MySQL Workbench](https://github.com/mysql/mysql-workbench) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
 - [Ocelot GUI](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger.
 - [OmniDB: Web tool for database management](https://github.com/OmniDB/OmniDB)
+- [OrcaQ](https://github.com/cin12211/orca-q) - A modern, open-source database editor for PostgreSQL, MySQL, Redis, and more. Features an AI assistant, ERD visualizer, schema diff, and visual role management.
 - [Percona Monitoring and Management](https://github.com/percona/pmm) - An open-source platform for managing and monitoring MySQL performance.
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
 - [pspg](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
