@@ -123,6 +123,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *Tools to support MySQL-related development*
 
 - [Flywaydb](https://github.com/flyway/flyway) - Database migrations; Evolve your database schema easily and reliably across all your instances
+- [Foxschema](https://foxschema.com) - Compares MySQL and PostgreSQL schemas and generates database migrations, available as a web app, desktop app, or self-hosted.
 - [dbsafe](https://github.com/nethalo/dbsafe) - Pre-execution safety analysis for MySQL DDL/DML operations
 - [Liquibase](https://github.com/liquibase/liquibase) - Source control for your database
 - [Shift](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
