@@ -244,4 +244,5 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 Projects that are known to be non-production and yet have either traction or substance that warrants exposure.
 
+- [DBAegis](https://github.com/ILOGICSOFT/dbaegis-community) - self-hosted web interface for MySQL logical backups, schedules, history, controlled restores, and restore-drill evidence.
 - [VillageSQL](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
