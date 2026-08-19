@@ -137,6 +137,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [Adminer](https://github.com/vrana/adminer/) - Database management in a single PHP file.
 - [DBeaver](https://github.com/dbeaver/dbeaver/) - A cross-platform SQL and NoSQL database client.
+- [DBTool](https://github.com/achi777/db-tool) - Free and open-source cross-platform desktop client for MySQL, MariaDB and four other engines, with server-side pagination, a visual query builder and a schema designer.
 - [StackRender](https://github.com/stackrender/stackrender) - Free and open-source database schema design and SQL migration generator for MySQL. 
 - [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - MySQL GUI frontend for Windows.
 - [ILLA Cloud](https://github.com/illacloud/illa-builder) - Low-code internal tool builder integrated with Mysql, can be used as GUI for Mysql. 
