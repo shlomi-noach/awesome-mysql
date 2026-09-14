@@ -138,6 +138,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [Adminer](https://github.com/vrana/adminer/) - Database management in a single PHP file.
 - [DBeaver](https://github.com/dbeaver/dbeaver/) - A cross-platform SQL and NoSQL database client.
+- [dqex](https://github.com/fj1981/dqex) - Offline-first, AI-native database workbench as a single static binary (MySQL/PostgreSQL/Oracle). No JVM/Electron; Web UI + CLI sharing one engine, cross-dialect migration, compare, snapshots, Excel data dictionary, and a confirm-before-write AI SQL assistant.
 - [StackRender](https://github.com/stackrender/stackrender) - Free and open-source database schema design and SQL migration generator for MySQL. 
 - [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - MySQL GUI frontend for Windows.
 - [ILLA Cloud](https://github.com/illacloud/illa-builder) - Low-code internal tool builder integrated with Mysql, can be used as GUI for Mysql. 
