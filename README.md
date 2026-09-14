@@ -168,6 +168,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 ## MCP
 
 - [MCP MariaDB Server](https://github.com/MariaDB/mcp) - the official MariaDB MCP server.
+- [mysql-legacy-mcp](https://github.com/Rufflet/mysql-legacy-mcp) - MCP server for MySQL 5.0–5.6 with schema inspection, SELECT by default, and opt-in INSERT/UPDATE/DELETE/DDL.
 - [MySQL MCP Server](https://github.com/askdba/mysql-mcp-server) - Advanced MCP server exposing MySQL via the Model Context Protocol
 - [TiDB MCP Server](https://pingcap.github.io/ai/integrations/tidb-mcp-server/) - MCP Server for TiDB.
 
