@@ -31,6 +31,12 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
     - [E-Books](#e-books)
 
 
+## AI Tools
+
+*Perform AI tasks using MySQL as a datasource*
+
+- [MindsDB](https://docs.mindsdb.com/integrations/data-integrations/mysql) - Connects MySQL to any AI/ML model to implement and automate AI-powered applications. Deploy, serve, and fine-tune models in real-time, utilizing data from databases, vector stores, or applications.
+
 ## Analysis
 
 *Performance, structure & data analysis tools*
