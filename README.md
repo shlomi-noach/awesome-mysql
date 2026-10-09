@@ -138,7 +138,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *GUI frontends & applications*
 
 - [Adminer](https://github.com/vrana/adminer/) - Database management in a single PHP file.
-- [BerryDB](https://github.com/berry-apps/berrydb-desktop) - native macOS database client in Swift & AppKit (MySQL, MariaDB, PostgreSQL, SQLite, Redis).
 - [DBeaver](https://github.com/dbeaver/dbeaver/) - A cross-platform SQL and NoSQL database client.
 - [StackRender](https://github.com/stackrender/stackrender) - Free and open-source database schema design and SQL migration generator for MySQL. 
 - [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - MySQL GUI frontend for Windows.
@@ -250,5 +249,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 Projects that are known to be non-production and yet have either traction or substance that warrants exposure.
 
+- [BerryDB](https://github.com/berry-apps/berrydb-desktop) - Native macOS database client in Swift & AppKit (MySQL, MariaDB, PostgreSQL, SQLite, Redis).
 - [masume](https://github.com/masumedb/masume) - Keyboard-first terminal database client with AI chat and an MCP server.
 - [VillageSQL](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
