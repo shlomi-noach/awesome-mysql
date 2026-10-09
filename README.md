@@ -249,5 +249,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 Projects that are known to be non-production and yet have either traction or substance that warrants exposure.
 
+- [dbdiff](https://github.com/rekurt/dbdiff) - compares MySQL/MariaDB schemas and reports drift, with JSON snapshots and CI output.
 - [masume](https://github.com/masumedb/masume) - Keyboard-first terminal database client with AI chat and an MCP server.
 - [VillageSQL](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
