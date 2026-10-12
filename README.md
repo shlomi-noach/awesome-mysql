@@ -249,5 +249,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 Projects that are known to be non-production and yet have either traction or substance that warrants exposure.
 
+- [Culprit SQL Studio](https://github.com/cristipufu/culprit-sql-studio) - Desktop app, CLI and MCP server that ranks slow statements from performance_schema by database time and explains plans, indexes and lock waits, with a fix for each. Also supports MariaDB, PostgreSQL and SQL Server.
 - [masume](https://github.com/masumedb/masume) - Keyboard-first terminal database client with AI chat and an MCP server.
 - [VillageSQL](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
