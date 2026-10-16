@@ -71,6 +71,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 ## Binlog-Replication
 
+- [dbtrail](https://github.com/dbtrail/dbtrail) - Analytical replica of MySQL: keeps tables as Parquet files fed from the binlog, queried with DuckDB
 - [DM](https://github.com/pingcap/tiflow) - A High-Availability data migration platform which supports migrating data from MySQL/MariaDB to TiDB and merging shard tables
 - [Kingbus](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
 - [mysql-ripple](https://github.com/google/mysql-ripple) (archived) - Ripple, a server that can serve as a middleman in MySQL replication
