@@ -156,6 +156,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [TablePro](https://github.com/TableProApp/TablePro) - Native macOS client for MySQL and many other databases with inline editing, SSH tunneling, and AI assistant. Free and open-source.
 - [SQLyog Community edition](https://github.com/webyog/sqlyog-community) - SQLyog Community edition. For Windows, works fine under wine in Mac and Linux
 - [squix](https://github.com/eduardofuncao/squix) - SQL command-line client with query management and interactive results.
+- [Tabularis](https://github.com/TabularisDB/tabularis) - Free, open-source desktop client for MySQL and MariaDB with a SQL editor, editable data grids and ER diagrams. Available for Windows, macOS and Linux.
 - [WebDB](https://github.com/WebDB-App/app) – Open Source and Efficient Database IDE. Featuring Easy server connection, Modern ERD, Intelligent data generator, AI assistant, NoSQL structure manager, Time machine and Powerful query editor
 
 ## HA
