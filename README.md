@@ -251,4 +251,5 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 Projects that are known to be non-production and yet have either traction or substance that warrants exposure.
 
 - [masume](https://github.com/masumedb/masume) - Keyboard-first terminal database client with AI chat and an MCP server.
+- [NiceDB](https://github.com/maxib0n/NiceDB) - Open-source desktop client for MySQL, MariaDB and other databases, with EXPLAIN ANALYZE plan views and read-only production connections.
 - [VillageSQL](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
