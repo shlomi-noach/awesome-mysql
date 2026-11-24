@@ -250,5 +250,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 Projects that are known to be non-production and yet have either traction or substance that warrants exposure.
 
+- [arcodash](https://github.com/arcodash/arcodash) - BI dashboards with built-in data checks (freshness, row count, null rate) and alerts; connects to MySQL and MariaDB among other sources.
 - [masume](https://github.com/masumedb/masume) - Keyboard-first terminal database client with AI chat and an MCP server.
 - [VillageSQL](https://github.com/villagesql/villagesql-server) - A drop-in replacement for MySQL with extensions for the agentic AI era.
