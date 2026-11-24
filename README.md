@@ -150,6 +150,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [MySQL Workbench](https://github.com/mysql/mysql-workbench) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
 - [Ocelot GUI](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger.
 - [OmniDB: Web tool for database management](https://github.com/OmniDB/OmniDB)
+- [OpenEverest](https://github.com/openeverest/openeverest) - Open-source, self-hosted database-as-a-service platform for Kubernetes (CNCF Sandbox project). Web UI and API to provision, scale, back up and restore highly available MySQL clusters (Percona XtraDB Cluster) on any cloud or on-premises, alongside PostgreSQL, MongoDB and other engines.
 - [Percona Monitoring and Management](https://github.com/percona/pmm) - An open-source platform for managing and monitoring MySQL performance.
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
 - [pspg](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
