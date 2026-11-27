@@ -173,6 +173,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 - [MCP MariaDB Server](https://github.com/MariaDB/mcp) - the official MariaDB MCP server.
 - [MySQL MCP Server](https://github.com/askdba/mysql-mcp-server) - Advanced MCP server exposing MySQL via the Model Context Protocol
+- [Surinch DB Guard MCP](https://github.com/inchTodd/surinch-db-guard-mcp) - local-first, zero-dependency MCP server and CLI for MySQL DDL governance scoring, SQL read-only safety checks, and metadata-only sensitive masking scans with SHA-256 receipts.
 - [TiDB MCP Server](https://pingcap.github.io/ai/integrations/tidb-mcp-server/) - MCP Server for TiDB.
 
 ## Proxy
